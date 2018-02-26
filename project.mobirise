@@ -416,7 +416,7 @@
           "_params": {
             "showTitles": false,
             "tabs": "5",
-            "paddingTop": 2,
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/img-wrapper-6-1920x400.jpg",
