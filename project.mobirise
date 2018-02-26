@@ -25,7 +25,8 @@
         "#091523",
         "#232323",
         "#1a9c40",
-        "#034216"
+        "#034216",
+        "#0a8c30"
       ]
     },
     "favicon": "@PROJECT_PATH@/assets/images/logo-mit-128x23.png",
@@ -56,13 +57,13 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "bgColor": "#1a9c40",
+            "bgColor": "#0a8c30",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -99,13 +100,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#13702e"
+              "background": "#075c20"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#188f3b!important"
+              "background": "#097e2b!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#1a9c40"
+              "background": "#0a8c30"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -381,7 +382,7 @@
           "title4": "Tab heading 4",
           "title5": "Tab heading 5",
           "title6": "Tab heading 6",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-2b\" aria-expanded=\"false\">W2W Exchange 100%</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-2b\" aria-expanded=\"false\">ICO Builder 83%</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-2b\" aria-expanded=\"false\">Local Exchange 50%</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-2b\" aria-expanded=\"false\">Decentralised Exchange 3%</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-2b\" aria-expanded=\"true\">Crypto Racing 3%</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-2b\">Beautiful</a></li>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-2b\" aria-expanded=\"false\">W2W Exchange 100%</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-2b\" aria-expanded=\"false\">ICO Builder 83%</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-2b\" aria-expanded=\"true\">Local Exchange 50%</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-2b\" aria-expanded=\"false\">Decentralised Exchange 3%</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-2b\" aria-expanded=\"true\">Crypto Racing 3%</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-2b\">Beautiful</a></li>",
           "text1": "Working platform. Please visit <a href=\"http://www.mit.exchange\" class=\"text-warning\"><b>www.mit.exchange</b></a>",
           "text2": "83% completion. Platform will be viewable very soon",
           "text3": "50% completion. Protocol will be viewable soon.",
@@ -1215,13 +1216,13 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "bgColor": "#1a9c40",
+            "bgColor": "#0a8c30",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1353,13 +1354,13 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "bgColor": "#1a9c40",
+            "bgColor": "#0a8c30",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1491,13 +1492,13 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "bgColor": "#1a9c40",
+            "bgColor": "#0a8c30",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1693,13 +1694,13 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "bgColor": "#1a9c40",
+            "bgColor": "#0a8c30",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1831,13 +1832,13 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "bgColor": "#1a9c40",
+            "bgColor": "#0a8c30",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
