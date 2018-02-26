@@ -1,0 +1,1963 @@
+{
+  "settings": {
+    "name": "MIT Exchange",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#e25041",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#2969b0",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#ede6c8",
+        "#091523",
+        "#232323",
+        "#1a9c40",
+        "#034216"
+      ]
+    },
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "siteUrl": "",
+    "versionFirst": "4.4.1",
+    "uniqCompNum": 84,
+    "versionPublish": "4.4.1",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "sitemapSwitcherAuto": "on",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "bgColor": "#1a9c40",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">About Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-1s\">Investment</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mit.exchange\">MIT Instant Exchange</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#13702e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#188f3b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#1a9c40"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#e25041!important"
+            },
+            ".btn": {
+              "font-size": "12px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logobittasia-105x106.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MIT Instant Exchange</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#f7da64",
+              "font-size": "30px"
+            },
+            "P": {
+              "color": "#f7da64",
+              "font-size": "18px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/hft-image-1500x1000.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#034216",
+            "overlayOpacity": "0.5"
+          },
+          "title": "MIT Exchange 2018",
+          "caption": "<p>The Safest, Fastest Asset Exchange&nbsp;<span style=\"font-size: 1.07rem;\">at the best rate. &nbsp;</span><span style=\"font-size: 1.07rem;\">Transfer from one wallet to another within seconds. It's that simple. &nbsp;</span><span style=\"font-size: 1.07rem;\">Trade any leading blockchain asset for any other. Protection by Design. No Account Needed.</span></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-1"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "countdown": "2018/05/31",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bg4-1400x710.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#e9e9e9",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2969b0",
+            "overlayOpacity": "0.5"
+          },
+          "title": "MIT Exchange<br>Initial Exchange Offering<br>Starting 1 March 2018<br>Ending &nbsp;31 May 2018",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extCountdown1",
+          "_anchor": "extCountdown1-3",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "22px",
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSearch": false,
+            "rowСount": "13",
+            "colCount": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/thrn06-compressor-2000x1125.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.4
+          },
+          "title": "IEO Details",
+          "search": "Search:",
+          "info1": "Showing",
+          "info2": "entries",
+          "info3": "(filtered from",
+          "info4": "total entries)",
+          "table": "<thead><tr><th>Subject</th><th>Details</th></tr></thead><tbody><tr><td><b>Token</b></td><td><b>MIT Exchange</b></td></tr><tr><td><b>Symbol</b></td><td><b>MITEX</b></td></tr><tr><td><b>Network</b></td><td><b>Ethereum</b></td></tr><tr><td><b>Total Supply</b></td><td><b>250 M</b></td></tr><tr><td><b>Circulating</b></td><td><b>200 M</b></td></tr><tr><td><b>Starting</b></td><td><b>01 March 2018</b></td></tr><tr><td><b>Ending</b></td><td><b>31 May 2018</b></td></tr><tr><td><b>Minimum</b></td><td><b>0.1 ETH</b></td></tr><tr><td><b>Stage 1</b></td><td><b>Early Bird</b></td></tr><tr><td><b>Stage 2</b></td><td><b>Pre-ICO</b></td></tr><tr><td><b>Stage 3</b></td><td><b>ICO</b></td></tr><tr><td><b>Unsold Token</b></td><td><b>Burnt</b></td></tr><tr><td><b>Buy Back</b></td><td><b>Yes</b></td></tr></tbody>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTable1",
+          "_anchor": "extTable1-k",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "22px"
+            },
+            "TH": {
+              "font-size": "17px"
+            },
+            "B": {
+              "font-size": "17px"
+            },
+            "TD": {
+              "font-size": "19px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "DIV": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "font-size": "25px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/c992bbccc182ff28a29b9098d59444dd-1000-1731x1000.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2969b0",
+            "overlayOpacity": "0.8"
+          },
+          "title": "MIT Ecosystem Overall View\r",
+          "caption": "<div>Welcome to MIT Exchange</div><div>\n</div><div>MIT Exchange is an instant wallet to wallet cryptocurrency exchange service between digital currencies. The service offers a wide range of digital currencies to buy and sell but does not provide conversion to or from traditional currencies. MIT aggregates and suggests the best currency rates among the largest crypto trading platforms. The primary object of MIT is to remove technical barriers between customers and the cryptocurrency ecosystem.]</div><div><br></div><div>\n</div><div>\n</div><div>MIT is a web and API platform formed in Feb 2018 to provide instant Bitcoin and altcoin conversion with the maximum level of consumer protection and efficiency.</div><div><br></div><div>\n</div><div>\n</div><div>Users do not have to create accounts, deposit funds, or provide private personal information. This keeps the users safe from identity or financial theft – a critical improvement in exchange technology.</div><div><br></div><div>\n</div><div>\n</div><div>MIT is a Hybrid Blockchain technology company focused on cryptocurrency exchange, gaming app &amp; ICO builder for startup companies. We have developed a highly scalable, secure, permissioned and commercial grade platform architecture powered by Ethereum Network,\n</div><div>\n</div><div>Our current working product is MIT W2W Instant exchange had launcjhed on 26 Feb 2018, which allows almost immediate crypto-currency trading without holding your coins/token. Easy, safe and fair. Our target is USD 100 million trading volume perday, which only accounts for 0.5% of the global trading volume of USD 20 billion.</div><div><br></div><div>\n</div><div>\n</div><div>With the designated transaction fee of 0.5% per transaction, the estimated daily transaction revenue will be USD $ 500,000. Monthly transaction revenue will be USD 15 millon.\n</div><div>\n</div><div><br></div><div>MIT Ecosystem management team &amp; developer has decided to adopt blockchian crowfunding mechanism, Initial Exchange Offering (IEO) to support and fund our future crypto projects which are highly rewarding finacially, they are ICO Builder, Buy &amp; Sell Local Exchange, Decentralised Exchange and Crytp Racing Game App. \n</div><div>\n</div><div><br></div><div>To reward our early investors for participating in the IEO campaign, a fixed percentage of 15% will be set aside from MIT'smonthly revenue to be redistributed to funding campaign participants for life term.\n</div><div>\n</div><div>A total of 250 million MITEX (ERC20) tokens will be genrated during the IEO Event. 200 million token will be available for public investors and the developer team will hold 5 million token. Hard cap is set at USD 20 million. Any unsold token will be burnt at the completion of the IEO event. Common currency for IEO contribution will be ETHER only. Minimum investment is set as 0.1 ETHER.\n</div><div>\n</div><div><br></div><div>The MIT IEO Event will be set at three stages, Early Bird, Pre-ICO and ICO. Official contribution event will start at 01 March 2018 and end at 31 May 2018.\n</div><div>\n</div><div><br></div><div>MITEX Token will be listed in minor &amp; major cryptocurrency exchanges. Including LiveCoin, Ku Coin, Poloneix, Binance, Bittex, HITBTC, CoinExchange, Gate IO &amp; others. Coin listing schedule will be released after the completion of the IEO.\n</div><div>Estimated inital listing price will be ~ USD $0.12\n</div><div>We are aiming (not-a-promise) for long-term projectory price of at least USD $26.00/token when all our future profiting machineries are up and running (in 18 months after the completion of the IEO), correlated to the release of our future products and platform.\n</div><div>\n</div><div><br></div><div>Revenue sharing payout potential\n</div><div>Monthly transaction revenue: USD 15 million\n</div><div>15% for revenue sharing: USD 2.25 million\n</div><div>Total token: 250 million\n</div><div>Payout: USD 0.009 pertoken permonth\n</div><div>The monthly payout will be in the range of monthly 3% - 6% of your initial contribution cost, depending of the entry price of the ETHER.\n</div><div>The monthly revenue sharing above represents the best case scenario. Estimated payouts do not guarentee future results. Our Exchange is revenue sharing with its contributors. If our volume for any month is $0, the payout will be $0.\n</div><div>\n</div><div><br></div><div>Benefits of joining MIT Initial Exchange Offering Event (IEO):\n</div><div>1. We are expecting MITEX baseline price will rise to USD 26 from initial release price of USD 0.12 in 18 months time\n</div><div>2. Monthly revenue sharing payout of 3%-5% for hodling the tokens\n</div><div>\n</div><div>The monthly revenue sharing above represents the best case scenario. Estimated payouts do not guarentee future results. Our Exchange is revenue sharing with its contributors. If our volume for any month is $0, the payout will be $0.\n</div><div>\n</div><div>For more information regarding MIT Ecosystem, please read through the content we had provided below.</div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-29"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "stripedBars": true,
+            "progress1": "100",
+            "progress2": "83",
+            "progress3": "50",
+            "progress4": "3",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-wrapper-4-1920x550.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "title": "<span style=\"font-weight: normal;\">Products Functionality</span>",
+          "title1": "W2W Instant Wallet",
+          "title2": "ICO Builder",
+          "title3": "Buy &amp; Sell Local Exchange",
+          "title4": "Decentralised Exchange &amp; Crypto-Racing",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extProgressBar1",
+          "_anchor": "extProgressBar1-28",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "25px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".progressbar-title p, .progressbar-number, .progressbar-number + span": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "17px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitles": false,
+            "tabs": "5",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-wrapper-6-1920x400.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.2
+          },
+          "title1": "BOOST YOUR RANKING",
+          "title2": "BOOTSTRAP BUILDER",
+          "title3": "TRENDY WEBSITE BLOCKS",
+          "title4": "Tab heading 4",
+          "title5": "Tab heading 5",
+          "title6": "Tab heading 6",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-2b\" aria-expanded=\"false\">W2W Exchange 100%</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-2b\" aria-expanded=\"false\">ICO Builder 83%</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-2b\" aria-expanded=\"false\">Local Exchange 50%</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-2b\" aria-expanded=\"false\">Decentralised Exchange 3%</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-2b\" aria-expanded=\"true\">Crypto Racing 3%</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-2b\">Beautiful</a></li>",
+          "text1": "Working platform. Please visit <a href=\"http://www.mit.exchange\" class=\"text-warning\"><b>www.mit.exchange</b></a>",
+          "text2": "83% completion. Platform will be viewable very soon",
+          "text3": "50% completion. Protocol will be viewable soon.",
+          "text4": "3% Completion. Platform will be available for trial out in September 2018",
+          "text5": "3% Completion. Protocol will be availalble in September 2018",
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTabs1",
+          "_anchor": "extTabs1-2b"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSearch": false,
+            "rowСount": "4",
+            "colCount": "3",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bg4-1400x710.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2969b0",
+            "overlayOpacity": "0.5"
+          },
+          "title": "Token Offering Events",
+          "search": "Search:",
+          "info1": "Showing",
+          "info2": "",
+          "info3": "",
+          "info4": "",
+          "table": "<thead><tr><th>Stage</th><th>Offer (1 ETH)</th><th>Date</th></tr></thead><tbody><tr><td>Early Birds</td><td>10,000 MITEX</td><td>01 March</td></tr><tr><td>Pre-ICO</td><td>9,000 MITEX</td><td>01 April</td></tr><tr><td>ICO</td><td>8,500 MITEX</td><td>01 May</td></tr><tr><td>Ending</td><td><br></td><td>31 May</td></tr></tbody>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTable1",
+          "_anchor": "extTable1-23",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-size": "22px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "TH": {
+              "color": "#ffffff",
+              "font-size": "17px"
+            },
+            "TD": {
+              "color": "#ffffff",
+              "font-size": "17px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "tabs": "6",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/contact-1366x765.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#efefef",
+            "overlayOpacity": "0.3"
+          },
+          "title": "FAQ",
+          "title1": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseOneextToggle1-24\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>MIT Exchange</a>",
+          "title2": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseTwoextToggle1-24\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">MITEX Token</a>",
+          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseThreeextToggle1-24\" aria-expanded=\"true\" aria-controls=\"collapseThree\">Initial Exchange Offering</a>",
+          "title4": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseFourextToggle1-24\" aria-expanded=\"true\" aria-controls=\"collapseFour\">Funding from IEO</a>",
+          "title5": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseFiveextToggle1-24\" aria-expanded=\"true\" aria-controls=\"collapseFive\">Vision</a>",
+          "title6": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseSixextToggle1-24\" aria-expanded=\"true\" aria-controls=\"collapseSix\">Token Price</a>",
+          "text1": "MIT W2W Exchange is a currently an already running working wallet to wallet crypto currency exchange platform.<br><br>MIT's robot is integrated into the largest cryptocurrency trading platforms, including Poloniex and Bittrex. In the span of milliseconds, the robot makes bids and asks on the trading platforms, then selects and suggests the best available rate and displays the estimated rate on our site. The rates remain approximate until the transaction is actually made on the blockchain. The exchange rate at the time of a transaction may differ slightly from the estimated rate that you see when you begin a transaction.",
+          "text2": "The MITEX token is based on ERC 20 standard. It’s a utility token and will be an irreplaceable part of our MIT Ecosystem.<br><br>The MITEX token is central to our ecosystem. It’s the unit of value that allows us to create our ecosystem, it ultimately building more value for customers as adoption and utility grows.<br><br>\n<div>\n</div><div>MITEX token &nbsp;is the only unit of value used across our platform. Every purchase, sale, exchange or any other transaction on the platform will require the use of EXP24K tokens.\n</div><div>​\n</div><div>The number of MITEX tokens will be strictly limited. A finite amount of 250 million tokens will be issued, of which 210 million are available for the global investors.</div>",
+          "text3": "<p>MIT initial exchange offering is based on an already running exchange platform.&nbsp;</p><p><br></p><p>The Early Bird stage is scheduled to run from March 01 till March 31 2018, while the ICO is planned from April 01 till May 31, 2018. To clarify the timing, follow the chart above.</p>",
+          "text4": "1. To perfectualise current <b>MIT Wallet 2 Wallet Exchange</b><br>2. To build <b>MIT Buy &amp; Sell Local Exchange</b><br>3. To build <b>MIT Decentralised Global Exchange</b><br>4. To build a decentralised game app, <b>Cryto-Racing</b><br>5. To build a decentralised <b>MIT ICO Builder</b> for global startup<br><br>* MIT Ecosystem adopt revenue sharing policy. Participants in IEO will be entitled to 25% profit revenue sharing generated from the above projects. For futher informations regarding the future projects, please refer to the roadmap below.",
+          "text5": "Our first milestone is the already running W2W Crypto Exchange Platform. Funding generated from the IEO will allow us to build next generation crypto projects aim for high investment return which we will be revenue-sharing (25% for life) with the early participants in our MIT IEO Project.",
+          "text6": "<p>MITEX Token will be listed in minor &amp; major cryptocurrency exchanges. Including LiveCoin, Ku Coin, Poloneix, Binance, Bittex, HITBTC, CoinExchange, Gate IO &amp; others. Coin listing schedule will be released after the completion of the IEO.</p><br><p>Estimated inital listing price will be ~ USD $0.12</p><br><p>We are aiming (not-a-promise) for long-term projectory price of at least USD $26.00/token when all our future profiting machineries are up and running.</p><br><p>This releastic predicted price of USD $26 is based on:</p><p>a. Highly profitting future projects &amp; platform</p>b. Revenue sharing (15%) from all projects<br>c. Token buy back &amp; burnt policy<br>d. Transparent financial auditing report",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extToggle1",
+          "_anchor": "extToggle1-24",
+          "_styles": {
+            "P": {
+              "font-size": "17px"
+            },
+            "H1": {
+              "font-size": "25px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/contact-bg-1960x1000.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#3d3d3d",
+            "bgText": "Animated text background",
+            "bgTextStyle": "Montserrat",
+            "bgTextColor": "#5e5546",
+            "bgTextSize": "50",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.3"
+          },
+          "title": "MIT W2W Instant Exchange",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">GET FREE TRIAL</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extMsg-box4",
+          "_anchor": "extMsg-box4-1n",
+          "_styles": {
+            "SPAN": {
+              "font-size": "22px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "18px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p><span style=\"font-size: 1.07rem;\">MIT is revolutionary part of the cryptocurrency ecosystem. It is how digital asset exchange should work. The platform gives you the power to quickly swap between assets – no account required.</span><br></p><p>\n</p><p>Let's assume you have Bitcoin and you want Ether. It goes like this:\n</p><p>\n</p><p><br></p><p>1. Select Bitcoin as the input and Ether as the output\n</p><p>2. Provide your Ether address from your Ether wallet in the top box (destination address) and your Bitcoin address (refund address). Click on \"I agree to Terms\", then click the Start Transaction Button.\n</p><p>3. MIT will generate a bitcoin deposit address for you (this is the address you will send your bitcoin from your bitcoin wallet to). Please send your bitcoin to this generated address, being sure to not send an amount over the \"Deposit Max\" or under the \"Deposit Min\"\n</p><p><br></p><p>That's it. In a few moments, your Ether will be quickly sent to you.\n</p><p>\n</p><p><br></p><p>No emails or passwords. No lengthy sign­up process. No accounts. No bid and ask orders. No friction. And no sending your money to be held on a centralized exchange. \n</p><p>\n</p><p>MIT's goal is to be the fastest, most private, and most convenient way to swap digital currencies, and the exchange rate will always remain competitive.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-7",
+          "_styles": {
+            "P": {
+              "font-size": "17px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showBgTitle": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "columns": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/ex1-1439x720.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#3d8eb9",
+            "overlayOpacity": "0.7"
+          },
+          "title1": "Easy",
+          "subtitle1": "",
+          "caption1": "Choose the altcoins or blockchain tokens you would like to exchange, input your receiving address, &amp; send your funds. Fast crypto market exchanges, no fees, and a delightful process.",
+          "title2": "Safe",
+          "subtitle2": "",
+          "caption2": "Unlike other digital asset and bitcoin exchanges, you don’t need an account to use MIT. This means your funds and information don’t suffer custodial risk.",
+          "title3": "Fair",
+          "subtitle3": "",
+          "caption3": "Other cryptocurrency trading services charge you with withdrawal fees and commissions. We have a reasonable fee of 0.5%.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "background1": "1",
+          "background2": "2",
+          "background3": "3",
+          "background4": "4",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures14",
+          "_anchor": "extFeatures14-6",
+          "_styles": {
+            "H3": {
+              "color": "#ede6c8"
+            },
+            "P": {
+              "font-size": "19px",
+              "color": "#ffffff"
+            },
+            "H4": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-on-feb-17th-at-12-26-pm-1400x441.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-1b"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#41a85f"
+          },
+          "text": "<b>There are 1545 Coins listed in Market\n</b><div><b>We have only listed 48 coins in MIT. The most potential coins for long term profit.</b></div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1q",
+          "_styles": {
+            "DIV": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "PRE MADE BLOCKS",
+          "text": "Direct access MIT Instant Exchange",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://bittasia.exchange\" data-toolbar=\"-mbrBtnMove\">MIT Instant Exchange</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-e",
+          "_styles": {
+            "H2": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "22px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff",
+              "font-size": "30px"
+            },
+            "P": {
+              "font-size": "19px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/5a525d0a30cd7400011b499a-new-hero-2000x1117.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#303030",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "media": {
+            "image": {
+              "class": "central-image",
+              "src": "@PROJECT_PATH@/assets/images/ios-app-5-360x638.png",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "layers",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "mobile",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "desktop",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "video",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "edit",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "linegraph",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "title": "FEATURES",
+          "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
+          "feature_title1": "Investment",
+          "feature_subtitle1": "",
+          "feature_text1": "Revenue profit sharing rewards from the transaction fee 0.25%",
+          "feature_title2": "Safe",
+          "feature_subtitle2": "",
+          "feature_text2": "Unlike other digital asset and bitcoin exchanges, you don’t need an account to use MIT. This means your funds and information don’t suffer custodial risk..",
+          "feature_title3": "Translation ready",
+          "feature_subtitle3": "Find a common language with anyone",
+          "feature_text3": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "feature_title4": "Easy",
+          "feature_subtitle4": "",
+          "feature_text4": "Choose the altcoins or blockchain tokens you would like to exchange, input your receiving address, &amp; send your funds. Fast crypto market exchanges, no fees, and a delightful process.",
+          "feature_title5": "Future Projects",
+          "feature_subtitle5": "",
+          "feature_text5": "Funding collector from the early investors will be utilised to build highly profitable crytp projects",
+          "feature_title6": "Awesome parallax",
+          "feature_subtitle6": "Enjoy smooth bg sliding on scroll",
+          "feature_text6": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures1",
+          "_anchor": "extFeatures1-9"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showDates": true,
+            "iconsColor": "#666666",
+            "blocks": "11",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#ffffff",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/contact-1366x765.jpg",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2969b0",
+            "overlayOpacity": "0.7"
+          },
+          "mainTitle": "Roadmap",
+          "bottomTitle": "<span style=\"font-weight: normal;\"><i>Roadmap may subject to changes without any advance notice</i></span><br><br>",
+          "mainSubtitle": "MIT Initial Exchange Offering",
+          "title1": "<span style=\"font-weight: normal;\">- Early Bird Offering Started</span><br><span style=\"font-weight: normal;\">- Display ICO Builder</span><br><span style=\"font-weight: normal;\">- Dislpay MIT Local Exchange</span><br>",
+          "title2": "<span style=\"font-weight: normal;\">- Pre-ICO Started</span><br><span style=\"font-weight: normal;\">- Upgrade MIT W2W server</span><br><span style=\"font-weight: normal;\">- Testing ICO Builder</span><br><span style=\"font-weight: normal;\">- Testing MIT Local Exchange</span><br><span style=\"font-weight: normal;\">- Release Whitepaper</span><br><span style=\"font-weight: normal;\">- Release full team profile</span>",
+          "title3": "<span style=\"font-weight: normal;\">- ICO Started</span><br><span style=\"font-weight: normal;\">- Preparing for token sales auditing</span>",
+          "title4": "<span style=\"font-weight: normal;\">- MIT IEO complete</span><br><span style=\"font-weight: normal;\">- Auditing</span><br><span style=\"font-weight: normal;\">- Unsold token eill be burnt</span>",
+          "title5": "<span style=\"font-weight: normal;\">- First revenue sharing payout to participants</span><span style=\"font-weight: normal;\"><br></span>",
+          "title6": "<span style=\"font-weight: normal;\">- Launching ICO Builder for global startup&nbsp;</span><br><span style=\"font-weight: normal;\">- Second revenue sharing payout to participants</span><br><span style=\"font-weight: normal;\">- Release token sales report</span><br>",
+          "title7": "<span style=\"font-weight: normal;\">- MIT Local Exchange first run. Limited to 500 registration worldwide.&nbsp;</span><br><span style=\"font-weight: normal;\">- Local Exchange marketing globally</span><br><span style=\"font-weight: normal;\">- Third revenue sharing payout to participants</span>",
+          "title8": "<span style=\"font-weight: normal;\">&nbsp;- Installation of around-the-clock phone support system an established user voting system to provide users an exceptional trading experience</span><br><span style=\"font-weight: normal;\">- Revise Local Exchange Functionality</span><br><span style=\"font-weight: normal;\">- Token listed in minor crypto currency exchanges</span><br><span style=\"font-weight: normal;\">- Exchange server ungrade</span><br><span style=\"font-weight: normal;\">- server Security upgrade</span><br><span style=\"font-weight: normal;\">- Set up operational office in Singapore, Malaysia, Thailand &amp; Norway</span>",
+          "title9": "<span style=\"font-weight: normal;\">- Fully functional MIT Local Exchange</span><br><span style=\"font-weight: normal;\">- Developing Crypto-Racing game app</span><br><span style=\"font-weight: normal;\">- Developing MIT Decentralised Exchange</span><br><span style=\"font-weight: normal;\">- Token listed in medium exchanges</span>",
+          "title10": "<span style=\"font-weight: normal;\">- Token listed in major exchanges</span><br><span style=\"font-weight: normal;\">- Retest platform server security</span><br><span style=\"font-weight: normal;\">- Set up office in Dehli India</span>",
+          "title11": "<span style=\"font-weight: normal;\">- Office re-opens</span><br><span style=\"font-weight: normal;\">- Crypto-Racing &amp; Decentralised Exchange will be launching during end of Q1 2019</span><br><span style=\"font-weight: normal;\">- Update Roadmap for coming year 2019</span>",
+          "title12": "12. Awesome Reports",
+          "date1": "<b>01 March 2018</b>",
+          "date2": "<b>01 April 2018</b>",
+          "date3": "<b>01 May 2018</b>",
+          "date4": "<b>31 May 2018</b>",
+          "date5": "<b>30 June 2018</b>",
+          "date6": "<b>31 July 2018</b>",
+          "date7": "<b>31 August 2018</b>",
+          "date8": "<b>1 October 2018</b>",
+          "date9": "<b>1 November 2018</b>",
+          "date10": "<b>10 December 2018</b>",
+          "date11": "<b>10 Jan 2019</b>",
+          "date12": "12 December 2016",
+          "text1": "",
+          "text2": "",
+          "text3": "",
+          "text4": "",
+          "text5": "",
+          "text6": "",
+          "text7": "",
+          "text8": "",
+          "text9": "",
+          "text10": "",
+          "text11": "",
+          "text12": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-extFeatures2",
+              "name": "layers",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "upload",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "linegraph",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "heart",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "pencil",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-extFeatures2",
+              "name": "layers",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media7": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "upload",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media8": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "linegraph",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media9": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "heart",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media10": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "pencil",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media11": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "heart",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media12": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "pencil",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures13",
+          "_anchor": "extFeatures13-h",
+          "_styles": {
+            ".etl-icon": {
+              "color": "#666666"
+            },
+            ".mbr-section-subtitle": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "19px",
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "22px",
+              "color": "#ffffff"
+            },
+            "H4": {
+              "color": "#ffffff",
+              "text-align": "left",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "17px"
+            },
+            ".date P": {
+              "color": "#f7da64",
+              "font-size": "22px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "19px"
+            },
+            "SPAN": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "17px"
+            },
+            "DIV": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "17px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "inverse": true,
+            "stripedBars": false,
+            "progress1": "70",
+            "progress2": "15",
+            "progress3": "10",
+            "progress4": "5",
+            "imageSize": "36",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/jumbotron.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "title": "Funding Distribution (100%)",
+          "title1": "Products Development",
+          "title2": "Server Construction",
+          "title3": "Human Resources",
+          "title4": "Marketing",
+          "media": {
+            "image": {
+              "active": true,
+              "class": "central-image",
+              "src": "@PROJECT_PATH@/assets/images/earth-img-991x991.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "size": 0,
+              "class": "mbr-iconfont mbr-iconfont-header2 ",
+              "color": "@primaryColor"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extProgressBar5",
+          "_anchor": "extProgressBar5-2a",
+          "_styles": {
+            "H2": {
+              "font-size": "25px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".progressbar-title p, .progressbar-number, .progressbar-number + span": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "17px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "tabs": "2",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/head-bacground-1965x734.png",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#c0a375",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.2
+          },
+          "title1": "Whitepaper<br>",
+          "title2": "Full Team Members",
+          "title3": "MIT W2W Exchange",
+          "title4": "Full Transparency&nbsp;",
+          "title5": "Tab heading 5",
+          "title6": "Tab heading 6",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-m\" aria-expanded=\"false\">Whitepaper</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-m\" aria-expanded=\"true\">Team</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-m\" aria-expanded=\"false\">Exchange</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-m\" aria-expanded=\"true\">Transparency</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-m\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-m\">Beautiful</a></li>",
+          "text1": "Still in developemenntal stage and will be available after 25% completion of the MITEX token sales",
+          "text2": "(Full team profile will be published in this site after 25% completion of the MITEX token sales.)<br><br><b>Allan Smith – CEO, Founder and Lead Developer</b>\n<br>Former site developer and security analyst for a data center and cyber security company that was\n<br>based out of Texas. Expertise in website and software development, along with information security.\n<br>Blockchain researcher and analyst.\n<br><br><b>Elizabeth Canley– COO, Co-Founder and Marketing Director\n</b><br>Elias has worked a government job that specializes in cyber security, as well as software and web\n<br>development. He developed an interest in cryptocurrency trading 2012, and as a trader himself, he\n<br>keeps the users in mind and will do anything possible to better MIT Ecosystem.<br>\n<br><b>Joseph Langley– CFO, Co-Founder and Business Analyst</b>\n<br>Financial analyst based out of San Diego. Focused on jumpstarting the cryptocurrency revolution\n<br>that is beginning to take hold in our current financial systems. Expertise in financial modeling.<br><br><b>Kelvin Brown– Lead of Technical Operations\n</b><br>IT Analyst based in Dublin, Ireland. Experience in server administration, information security, and\n<br>setting up servers with security in mind.<br>",
+          "text3": "The exchange is in full functuonal mode. Please<b> <a href=\"https://bittasia.exchange\">visit </a></b>the exchange for an excellent user experience.",
+          "text4": "Unlike brokers, cryptocurrency exchanges have no laws requiring them to release financial\n<br>statements to the public. We at Bittasia think transparency is essential for any money service\n<br>business. Starting on our official launch, we will be releasing monthly financial statements that will\n<br>be readily available on our website. This will include but is not limited to; the income statement,\n<br>balance sheet, statement of cash flows, and other more specific data pieces such as coin volume.&nbsp;<br><br>We will be disclosing location of our servers &amp; nodes after 25% completion of our token sales.",
+          "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTabs1",
+          "_anchor": "extTabs1-m",
+          "_styles": {
+            "P": {
+              "font-size": "19px",
+              "color": "#ffffff"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"page1.html\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>MIT Exchange. 24B Moorefield Rd,\n<br>Wellington 6037,\n<br>New Zealand\n<br>Copyright (c) 2018 MIT Exchange&nbsp;All rights reserved",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-q",
+          "_styles": {
+            "P": {
+              "font-size": "14px"
+            }
+          }
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "meta_descr": "Web Site Builder Description",
+        "title": "FAQ",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "bgColor": "#1a9c40",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">About Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-1s\">Investment</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mit.exchange\">MIT Instant Exchange</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#13702e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#188f3b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#1a9c40"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#e25041!important"
+            },
+            ".btn": {
+              "font-size": "12px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logobittasia-105x106.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MIT Instant Exchange</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-r"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"page1.html\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>MIT Exchange. 24B Moorefield Rd,\n<br>Wellington 6037,\n<br>New Zealand\n<br>Copyright (c) 2018 MIT Exchange&nbsp;All rights reserved",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "footer1-s"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><br></p><p><br></p><p><br></p><p><br></p><p>FAQ&nbsp;</p><p><br></p><p>Is MIT Decentralized?\n</p><p>MIT is of the belief that decentralized exchanges are the future, but understands the strong demand for a centralized system by investors and traders who don’t want to take on the cumbersome task of using and maintaining wallet keys by themselves. MIT is launching under the law of centralization, but our long-term goal is decentralized migration; beginning with optional private key importing and exporting, and eventually providing lone control over private keys. This transition will be 100% optional and will be determined by the user according to their expertise level.</p><p><br></p><p>Does MIT follow KYC/AML Requirements?</p><p>So far not yet. This is a wallet to wallet exchange platform.</p><p><br></p><p>Will fiat be accepted?</p><p>Fiat will not be accepted at this time.</p><p><br></p><p>\n</p><p>\n</p><p>Will there be an ICO?</p><p>Yes</p><p><br></p><p>How does MIT Exchange work?\n</p><p>MIT's robot is integrated into the largest cryptocurrency trading platforms, including Poloniex and Bittrex. In the span of milliseconds, the robot makes bids and asks on the trading platforms, then selects and suggests the best available rate and displays the estimated rate on our site. The rates remain approximate until the transaction is actually made on the blockchain. The exchange rate at the time of a transaction may differ slightly from the estimated rate that you see when you begin a transaction.</p><p><br></p><p>Why should I trust you?\n</p><p>MIT is a young and promising project created by professionals distributed throughout the whole world. The service provides safe and fast transactions without revealing users identities. We provide the best possible rates by comparing a wide range of reliable trading platforms and work in over 50 cryptocurrencies listed.</p><p><br></p><p>Why doesn’t MIT fix rates?\n</p><p>We don’t fix currency rates and never have because of the volatile nature of cryptocurrency, where the rate of any currency can fluctuate every minute. This is why the final rate may be slightly higher or lower than expected at the end of a transaction.\n</p><p>\n</p><p>Keeping the rates fixed would require us to cover market risks and currency volatility, which as a result would make our commission fee much higher. Instead, MIT charges a quite low commission fee (0.5%) and offers the best available rate at the moment the transaction is completed.</p><p><br></p><p>Do I need to enter my email?\n</p><p>Your email <b><i>may be</i></b> needed to create an account that gives you access to your transaction history, password editing and other account settings. Alternatively, you can create an account one of the social media platforms listed.</p><p><br></p><p><br></p><p><br></p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1a"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "meta_descr": "Website Maker Description",
+        "title": "About Us",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "bgColor": "#1a9c40",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">About Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-1s\">Investment</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mit.exchange\">MIT Instant Exchange</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#13702e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#188f3b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#1a9c40"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#e25041!important"
+            },
+            ".btn": {
+              "font-size": "12px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logobittasia-105x106.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MIT Instant Exchange</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-t"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"page1.html\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>MIT Exchange. 24B Moorefield Rd,\n<br>Wellington 6037,\n<br>New Zealand\n<br>Copyright (c) 2018 MIT Exchange&nbsp;All rights reserved",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "footer1-u"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><br></p><p><br></p><p><br></p><p><br></p><p>ABOUT US\n</p><p>MIT Wallet to Wallet Instant Exchange is an exchange built by real traders and innovators that not only listen to the public, but makes their ideas reality.\n</p><p>The world's first digital asset exchange built and developed by the community. MIT is set to host a fully functional mobile application, around-the-clock phone support staff, and an established user voting system to provide users an exceptional trading experience. With a revolutionary fee system which features both fixed and percentage-based fees, MIT enables easy and cheap trading costs for both small and large volume accounts.&nbsp;</p><p>Moreover, MIT posed itself as one the best investment opportunity to the public via blockchain.&nbsp;</p><p><br></p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-15"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "meta_descr": "Web Creator Description",
+        "title": "Contact",
+        "order": 3
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "bgColor": "#1a9c40",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">About Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-1s\">Investment</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mit.exchange\">MIT Instant Exchange</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#13702e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#188f3b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#1a9c40"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#e25041!important"
+            },
+            ".btn": {
+              "font-size": "12px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logobittasia-105x106.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MIT Instant Exchange</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-v"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"page1.html\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>MIT Exchange. 24B Moorefield Rd,\n<br>Wellington 6037,\n<br>New Zealand\n<br>Copyright (c) 2018 MIT Exchange&nbsp;All rights reserved",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "footer1-w"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "inverse": false,
+            "showArrow": true,
+            "showFormTitle": true,
+            "countdown": "2018/05/31",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader13-bg.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "MIT Exchange",
+          "title2": "Contact US",
+          "text": "MIT Initial Exchange has started. Ending in 31 May 2018",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND</a>",
+          "form": {
+            "action": "mitexchange@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone*"
+              },
+              "message": {
+                "visible": false,
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader13",
+          "_anchor": "extHeader13-18",
+          "_styles": {
+            "H3": {
+              "font-size": "36px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "H4": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "36px"
+            }
+          }
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "meta_descr": "Web Site Builder Description",
+        "title": "Terms and Conditions ",
+        "order": 4
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "bgColor": "#1a9c40",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">About Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-1s\">Investment</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mit.exchange\">MIT Instant Exchange</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#13702e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#188f3b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#1a9c40"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#e25041!important"
+            },
+            ".btn": {
+              "font-size": "12px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logobittasia-105x106.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MIT Instant Exchange</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-x"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"page1.html\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>MIT Exchange. 24B Moorefield Rd,\n<br>Wellington 6037,\n<br>New Zealand\n<br>Copyright (c) 2018 MIT Exchange&nbsp;All rights reserved",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "footer1-y"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p>TERMS AND CONDITIONS OF SERVICE OF MIT Exchange</p><p>(“the Agreement”)\n</p><p>THE AGREEMENT WAS LAST UPDATED ON 17 Feb 2018</p><p><br></p><p>INTRODUCTION\n</p><p>\n</p><p>1. Thank you for browsing our digital asset exchange website and/or placing an order with Bitmora Inc. a site operated by MIT Inc. (“the Company”) with &nbsp;its website at ‘https://mit.exchange”).\n</p><p>\n</p><p>2. By browsing the contents on the Website and/or placing an order, clicking to accept this Agreement or using and/or accessing any of the Company or related services (as the case may be), you agree to all the terms and conditions of the Agreement.\n</p><p>\n</p><p>3. If you are using or ordering the Company’s service(s) or related service(s) on behalf of a Company or other entity, then “Customer” or “You” means that entity, and you are binding that entity to the Agreement. You represent and warrant that you have the legal power and authority to enter into the Agreement and that, if the Customer is an entity, the Agreement is entered into by an employee or agent with all necessary authority to bind that entity to the Agreement.\n</p><p>\n</p><p>GENERAL\n</p><p>\n</p><p>4. The terms and conditions of the Agreement (together with any other terms and conditions agreed in writing between the Company and the Client from time to time) constitute the entire agreement between the parties and supersede any previous agreement(s) or understanding(s) and may not be varied except with notice from the Company. \n</p><p>\n</p><p>5. No failure or delay by the Company in exercising any of its rights under the Agreement shall be deemed to be a waiver of that right, and no waiver by the Company of any breach of the Contract by the Client shall be considered as a waiver of any subsequent breach of the same or any other provision.\n</p><p>\n</p><p>DEFINITION AND INTERPRETATION\n</p><p>\n</p><p>6. The following words used herein have the following definitions and meanings :-\n</p><p>\n</p><p>6.1 ‘Authorised Users’ refers to the Client’s employees, agents, contractor, third parties, staffs or any entity that is duly authorised to act on behalf of the Client.\n</p><p>\n</p><p>6.2 ‘Client’ refers to you as the receiver of the Services and will also include inter alia, to your employees, agents, contractor, third parties, staffs or any entity that is duly authorised to act on behalf of you. \n</p><p>\n</p><p>6.3 ‘Parties’ collectively refers to ‘the Company’ and its employees, agents, contractor, third parties, staffs or any entity that is duly authorised to act on behalf of the Company for the carrying out of the Services as the Service Provider and ‘You’ as the Client and its authorised agents, contractors, employees or any entity duly authorised for and on behalf of you. \n</p><p>\n</p><p>6.4 ‘Services’ refers to the global digital asset exchange information and/or any product(s) that may be available for purchase as provided by the Company as hereinafter displayed on the Website (as the case may be) (subject to change). Fiat to Bitcoin and Ethereum services in the future.\n</p><p>\n</p><p>6.5 ‘Service Provider’ refers to the Company and/or its employees, agent, contractor, third parties, staff or any entity that is duly authorised to act on behalf of the Company for the carrying out of the Services. \n</p><p>\n</p><p>6.6 ‘We, Us or Our’ refers to the Company and its employees, agents, contractor, third parties, staffs or any entity that is duly authorised to act on behalf of the Company for the carrying out of the Services.\n</p><p>\n</p><p>6.7 ‘You or Your’ refers to the Client.\n</p><p>\n</p><p>THE SERVICES \n</p><p>\n</p><p>7. General terms of Services\n</p><p>\n</p><p>7.1 The Company shall provide the Services to the Client subject to the terms and conditions contained herein or any other reference to documents referred to by the Company to the Client or such other terms and conditions as may be agreed in writing between the Company and the Client.\n</p><p>\n</p><p>7.2 The Company shall provide to the Client the Services as specified on the Company’s website. \n</p><p>\n</p><p>7.3 If in any event, the Company is unable to provide the Services, it will inform the Client as soon as reasonably possible. \n</p><p>\n</p><p>8. Responsibilities, Obligations and Due Diligence\n</p><p>\n</p><p>8.1 At the absolute discretion of the Company, it will provide the Client with the Services in its best endeavour to the Client. \n</p><p>\n</p><p>8.2 In the event that the Company is unable to provide the Services within a reasonable period from the dates(s) and time(s) and the Company have agreed or notified the Client then the Client will have the rights subject to the terms and conditions contained herein to exercise the Client’s option to wait until the Company is available to start performing the Services.\n</p><p>\n</p><p>8.3 The Client shall not request the Company to perform Services which are immoral or unlawful in nature. The decision will be at the absolute discretion of the Company. \n</p><p>\n</p><p>8.4 The Client shall endeavour to provide the Company with as much detailed information as possible regarding the Services under request in order for the Company to provide excellent services.\n</p><p>\n</p><p>8.5 The Client shall not request the Company to perform Services to, from and for people or places where the Company’s staffs, employees, agents and any other duly authorised entities of the Company may experience any form of abuse, bodily harm or death. \n</p><p>\n</p><p>LIABILITY, EXCLUSION AND LIMITATIONS \n</p><p>\n</p><p>9. The Company warrants to the Client that it shall use all of its reasonable endeavours to provide the Services using reasonable care and skill and as far as reasonably possible, in accordance with the Client’s request. \n</p><p>\n</p><p>10. The Company will not exclude or limit liability for its negligence or negligent omission which causes personal injury or death. \n</p><p>\n</p><p>11. The Company shall not be liable for any loss, cost, expense or damage of any nature whatsoever (whether direct or indirect) resulting from the use of Services except where it is expressly determined that a person acting under the direct instruction of the Company has knowingly acted in a negligent manner.\n</p><p>\n</p><p>12. The Company shall have no liability to the Client for any loss, damage, costs, expenses or other claims for compensation arising from requests or instructions supplied by the Client which are incomplete, incorrect or inaccurate or any other fault of the Client.\n</p><p>\n</p><p>13. The Company shall not be liable or be deemed to be in breach of the Agreement by reason of any delay in performing, or any failure, any of the Company’s obligations in relation to the Services, if the delay or failure was due to any cause beyond the Company’s reasonable control.\n</p><p>\n</p><p>14. Subject to the provisions of the terms and conditions contained herein, the maximum liability of the Company to the Client for breach of any of its obligations hereunder shall be limited to the value of the Charge (provided that the Charge has at such time been paid by the Client in full).\n</p><p>\n</p><p>DISCLOSURE OF INFORMATION \n</p><p>\n</p><p>15. All private information shall be governed by the Privacy Policy on the Website. \n</p><p>\n</p><p>16. Unless the Company receives notice from the Client to the contrary, the Company shall from time to time provide to the Client (by post, telephone or email) such information in relation to the Services that the Company considers may be of interest to the Client.\n</p><p>\n</p><p>AMENDMENTS \n</p><p>\n</p><p>17. The Company may update or modify this Agreement from time to time. If the Company modifies the Agreement during the Services, the modified version will take effect upon the next Service. \n</p><p>\n</p><p>18. Client may be required to check the update version from time to time after the modified version takes effect, in any event the continued use of the Services shall constitute acceptance of the modified version.\n</p><p>\n</p><p>SEVERABILITY\n</p><p>\n</p><p>19. If any provision of this Agreement is found by any Court of competent jurisdiction to be unenforceable or invalid, that provision will be limited to the minimum extent necessary so that this Agreement may otherwise remain in effect. \n</p><p>\n</p><p>FORCE MAJEURE \n</p><p>\n</p><p>20. Neither Party will be liable for any delay or failure to perform its obligations under the Agreement (except payment obligations) if the delay or failure is due to causes beyond its reasonable control, such as a strike, blockade, war, act of terrorism, riot, natural disaster, failure or reduction of power or telecommunications or data networks or services, or government act.\n</p><p>\n</p><p>SUBPOENAS \n</p><p>\n</p><p>21. Nothing in the Agreement prevents the Company from disclosing Client information and data to the extent required by law, subpoenas, or court orders, but the Company will use commercially reasonable efforts to notify Client where permitted to do so.\n</p><p>\n</p><p>ASSIGNMENT \n</p><p>\n</p><p>22. The Agreement will bind and inure to the benefit of each Party’s permitted successors and assigns. Neither Party may assign the Agreement without the advance written consent of the other party, except that the Company may assign the Agreement without consent to an affiliate or in connection with a merger, reorganization, acquisition or other transfer of all or substantially all of its assets or voting securities. \n</p><p>\n</p><p>ENTIRE AGREEMENT \n</p><p>\n</p><p>23. The Agreement represents the parties’ complete and exclusive understanding relating to the Agreement’s subject matter. It supersedes all prior or contemporaneous oral communications, proposals and representations with respect to the Company or any other subject matter covered by this Agreement.\n</p><p>\n</p><p>INCORPORATION\n</p><p>\n</p><p>24. The Agreement, shall unless otherwise suggested, incorporate all terms and conditions contained and set out in the Privacy Policy (Privacy Policy) and other written documents deemed appropriate by the Company including, without limitations, the contents on the Website. \n</p><p>\n</p><p>GOVERNING LAW, JURISDICTION AND VENUE\n</p><p>\n</p><p>25. This Agreement is governed by the laws in the state of Delaware, without regard to choice or conflict of law rules thereof.\n</p><p>\n</p><p>CONTACT US\n</p><p>\n</p><p>26. The Company welcomes your questions or comments regarding the foregoing Terms.\n </p><p><a href=\"page3.html\">Contact Us</a></p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-16"
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "meta_descr": "Web Site Builder Description",
+        "title": "Privacy Policy",
+        "order": 5
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "bgColor": "#1a9c40",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">About Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#custom-html-1s\">Investment</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mit.exchange\">MIT Instant Exchange</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#13702e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#188f3b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#1a9c40"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#e25041!important"
+            },
+            ".btn": {
+              "font-size": "12px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logobittasia-105x106.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MIT Instant Exchange</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-z"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"page1.html\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>MIT Exchange. 24B Moorefield Rd,\n<br>Wellington 6037,\n<br>New Zealand\n<br>Copyright (c) 2018 MIT Exchange&nbsp;All rights reserved",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "footer1-10"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><br></p><p><br></p><p><br></p><p><br></p><p>Privacy Policy</p><p><br></p><p>MIT.exchange (“mit.exchange” or “we”) controls and provides access to the mit.exchange website, currently located at www.mit.exchange (the “Website”).</p><p><br></p><p>\n</p><p>\n</p><p>At mit.exchange, we are fully committed to respecting your privacy and to protecting any information that our clients provide. Your privacy and security are both our highest priorities and we make every effort to ensure that all the information provided by you is protected. This Privacy Policy (the “Policy”) is designed to inform you about the terms of treating your personal data.\n</p><p>\n</p><p><br></p><p>Personal Information\n</p><p>\n</p><p>In order to access the functionality of the Website, you will may need to register. When registering, you may be asked to provide an email address and create a password. You may also choose to link to the Website using one of your accounts on the social networks, such as Twitter, Facebook and Google+.\n</p><p>\n</p><p><br></p><p>Record Collection\n</p><p>\n</p><p>From the moment you register on mit.exchange, our software will start collecting your non-personal identification information. Such information may include your browser’s name and technical information about your means of connection to our Website, in particular the operating system and the Internet service providers used among other similar information.\n</p><p>\n</p><p><br></p><p>The Use of Collected Information\n</p><p>\n</p><p>We may use the email address provided by you when you register to contact you from time to time. This might be for security reasons, to ask your opinion about the Website, or it may be to keep you updated on any changes to the services provided on the Website. We may also use the information to improve our customer service and respond to your needs more efficiently.\n</p><p>\n</p><p><br></p><p>Security\n</p><p>\n</p><p>mit.exchange aims to protect the security of your information as much as we aim to protect our own information and network. We will not permit any third parties to contact you directly on an unsolicited basis in relation to their own products or services. We do not sell, trade, or rent your personal identification information to others. You should never disclose your account password to unauthorized parties. We use certain security measures to help keep your personal information safe, but we cannot guarantee that these measures will stop any users try to get around the privacy or security settings on the Website through unforeseen and/or illegal activity.\n</p><p>\n</p><p><br></p><p>Changes to the Policy\n</p><p>\n</p><p>This Policy may be amended at our full discretion without prior notice. We encourage you to review it periodically in order to be aware of the changes we may have made. Reading it carefully and checking for any modifications is your responsibility. By using the Website, you accept and agree to the Policy and the terms of use.\n</p><p>\n</p><p><br></p><p>Contacting us\n</p><p>\n</p><p>If you have any questions about this Privacy Policy or the rules of mit.exchange, please contact us at the <a href=\"page3.html\">Contact Us</a> page.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-19"
+        }
+      ]
+    }
+  }
+}
