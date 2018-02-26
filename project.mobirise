@@ -422,7 +422,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/img-wrapper-6-1920x400.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -438,7 +438,7 @@
           "title5": "Tab heading 5",
           "title6": "Tab heading 6",
           "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-2b\" aria-expanded=\"true\">W2W Exchange 100%</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-2b\" aria-expanded=\"false\">ICO Builder 83%</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-2b\" aria-expanded=\"false\">Local Exchange 50%</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-2b\" aria-expanded=\"false\">Decentralised Exchange 3%</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-2b\" aria-expanded=\"true\">Crypto Racing 3%</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-2b\">Beautiful</a></li>",
-          "text1": "Working platform. Please visit <a href=\"http://www.mit.exchange\" class=\"text-warning\"><b>www.mit.exchange</b></a>",
+          "text1": "Functonal platform. Please visit <a href=\"http://www.mit.exchange\" class=\"text-warning\"><b>www.mit.exchange</b></a>",
           "text2": "83% completion. Platform will be viewable very soon",
           "text3": "50% completion. Protocol will be viewable soon.",
           "text4": "3% Completion. Platform will be available for trial out in September 2018",
