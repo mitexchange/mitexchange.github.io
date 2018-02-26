@@ -28,7 +28,7 @@
         "#034216"
       ]
     },
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-mit-128x23.png",
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "",
