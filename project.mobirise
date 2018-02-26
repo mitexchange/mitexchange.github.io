@@ -26,7 +26,8 @@
         "#232323",
         "#1a9c40",
         "#034216",
-        "#0a8c30"
+        "#0a8c30",
+        "#056ad9"
       ]
     },
     "favicon": "@PROJECT_PATH@/assets/images/mitfavicon-128x77.png",
@@ -35,7 +36,7 @@
     "cookiesAlert": "",
     "siteUrl": "",
     "versionFirst": "4.4.1",
-    "uniqCompNum": 84,
+    "uniqCompNum": 85,
     "versionPublish": "4.4.1",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
@@ -313,6 +314,57 @@
         {
           "_params": {
             "showTitle": true,
+            "showSearch": false,
+            "rowСount": "6",
+            "colCount": "3",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bg2-1920x659.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.4
+          },
+          "title": "<span style=\"font-weight: normal;\">3% Monthly Transaction Fee Profit Sharing Payout<br>(based on average daily trading volume of USD $100 million)</span>",
+          "search": "Search:",
+          "info1": "Showing",
+          "info2": "entries",
+          "info3": "(filtered from",
+          "info4": "total entries)",
+          "table": "<thead><tr><th><span style=\"font-weight: normal;\">Contribution <br>(ETHER)</span></th><th><span style=\"font-weight: normal;\">Monthly<br>(ETHER)</span></th><th><span style=\"font-weight: normal;\">Yearly<br>(ETHER)</span></th></tr></thead><tbody><tr><td>0.1</td><td>0.003</td><td>0.036</td></tr><tr><td>1</td><td>0.03</td><td>0.36</td></tr><tr><td>5</td><td>0.15</td><td>1.8</td></tr><tr><td>10</td><td>0.3</td><td>3.6</td></tr><tr><td>20</td><td>0.6</td><td>7.2</td></tr><tr><td>30</td><td>0.9</td><td>10.8</td></tr></tbody>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTable1",
+          "_anchor": "extTable1-2c",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "18px",
+              "color": "#ffffff"
+            },
+            "TH": {
+              "font-size": "17px",
+              "color": "#ffffff"
+            },
+            "TD": {
+              "font-size": "17px",
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
             "stripedBars": true,
             "progress1": "100",
             "progress2": "83",
@@ -354,6 +406,9 @@
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "17px"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#000000"
             }
           }
         },
@@ -382,7 +437,7 @@
           "title4": "Tab heading 4",
           "title5": "Tab heading 5",
           "title6": "Tab heading 6",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-2b\" aria-expanded=\"false\">W2W Exchange 100%</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-2b\" aria-expanded=\"false\">ICO Builder 83%</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-2b\" aria-expanded=\"false\">Local Exchange 50%</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-2b\" aria-expanded=\"true\">Decentralised Exchange 3%</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-2b\" aria-expanded=\"true\">Crypto Racing 3%</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-2b\">Beautiful</a></li>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-2b\" aria-expanded=\"true\">W2W Exchange 100%</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-2b\" aria-expanded=\"false\">ICO Builder 83%</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-2b\" aria-expanded=\"false\">Local Exchange 50%</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-2b\" aria-expanded=\"false\">Decentralised Exchange 3%</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-2b\" aria-expanded=\"true\">Crypto Racing 3%</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-2b\">Beautiful</a></li>",
           "text1": "Working platform. Please visit <a href=\"http://www.mit.exchange\" class=\"text-warning\"><b>www.mit.exchange</b></a>",
           "text2": "83% completion. Platform will be viewable very soon",
           "text3": "50% completion. Protocol will be viewable soon.",

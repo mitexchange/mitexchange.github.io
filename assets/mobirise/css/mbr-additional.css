@@ -22,6 +22,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -793,6 +794,19 @@ h6,
   font-size: 25px;
   font-family: 'Raleway', sans-serif;
 }
+#extTable1-2c .mbr-section-title {
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  color: #ffffff;
+}
+#extTable1-2c TH {
+  font-size: 17px;
+  color: #ffffff;
+}
+#extTable1-2c TD {
+  font-size: 17px;
+  color: #ffffff;
+}
 #extProgressBar1-28 .mbr-section-title {
   font-size: 25px;
   font-family: 'Raleway', sans-serif;
@@ -802,6 +816,9 @@ h6,
 #extProgressBar1-28 .progressbar-number + span {
   font-family: 'Raleway', sans-serif;
   font-size: 17px;
+}
+#extProgressBar1-28 .mbr-section-title SPAN {
+  color: #000000;
 }
 #extTable1-23 .mbr-section-title {
   color: #ffffff;
