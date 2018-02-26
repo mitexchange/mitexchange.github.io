@@ -56,7 +56,7 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
@@ -127,7 +127,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logobittasia-105x106.png",
+              "src": "@PROJECT_PATH@/assets/images/mitfavicon-176x107.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1215,7 +1215,7 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
@@ -1286,7 +1286,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logobittasia-105x106.png",
+              "src": "@PROJECT_PATH@/assets/images/mitfavicon-176x107.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1353,7 +1353,7 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
@@ -1424,7 +1424,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logobittasia-105x106.png",
+              "src": "@PROJECT_PATH@/assets/images/mitfavicon-176x107.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1491,7 +1491,7 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
@@ -1562,7 +1562,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logobittasia-105x106.png",
+              "src": "@PROJECT_PATH@/assets/images/mitfavicon-176x107.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1693,7 +1693,7 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
@@ -1764,7 +1764,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logobittasia-105x106.png",
+              "src": "@PROJECT_PATH@/assets/images/mitfavicon-176x107.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1831,7 +1831,7 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
@@ -1902,7 +1902,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logobittasia-105x106.png",
+              "src": "@PROJECT_PATH@/assets/images/mitfavicon-176x107.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
