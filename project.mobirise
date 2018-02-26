@@ -178,7 +178,7 @@
             "overlayOpacity": "0.4"
           },
           "title": "MIT Exchange 2018",
-          "caption": "<p>The Safest, Fastest Asset Exchange&nbsp;<span style=\"font-size: 1.07rem;\">at the best rate. &nbsp;</span><span style=\"font-size: 1.07rem;\">Transfer from one wallet to another within seconds. It's that simple. &nbsp;</span><span style=\"font-size: 1.07rem;\">Trade any leading blockchain asset for any other. Protection by Design. No Account Needed.</span></p>",
+          "caption": "<p>The Safest, Fastest Asset Exchange&nbsp;<span style=\"font-size: 1.07rem;\">at the best rate. </span><span style=\"font-size: 1.07rem;\">Transfer from one wallet to another within seconds. It's that simple. &nbsp;</span><span style=\"font-size: 1.07rem;\">Trade any leading blockchain asset for any other. Protection by Design. No Account Needed.</span></p>",
           "_tags": [
             "Theme"
           ],
