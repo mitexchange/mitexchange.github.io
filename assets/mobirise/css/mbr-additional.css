@@ -23,6 +23,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -783,6 +784,10 @@ h6,
 #extTable1-k TD {
   font-size: 19px;
 }
+#extTable1-2q .mbr-section-title {
+  font-family: 'Raleway', sans-serif;
+  font-size: 21px;
+}
 #content5-29 .mbr-section-title,
 #content5-29 p {
   color: #fff;
@@ -1377,4 +1382,88 @@ h6,
 }
 #footer1-2e P {
   font-size: 14px;
+}
+
+#ext_menu-2j .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-2j .navbar-caption {
+  color: #ffffff;
+  font-size: 20px;
+}
+#ext_menu-2j .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-2j .close-icon::before,
+#ext_menu-2j .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-2j .link,
+#ext_menu-2j .dropdown-item {
+  color: #ffffff;
+}
+#ext_menu-2j .link {
+  font-size: 0.75rem;
+}
+#ext_menu-2j .dropdown-item,
+#ext_menu-2j .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#ext_menu-2j .link:hover,
+#ext_menu-2j .dropdown-item:hover,
+#ext_menu-2j .link:focus,
+#ext_menu-2j .dropdown-item:focus {
+  color: #e25041;
+}
+#ext_menu-2j .link[aria-expanded="true"],
+#ext_menu-2j .dropdown-menu {
+  background: #075c20;
+}
+#ext_menu-2j .nav-dropdown-sm .link:focus,
+#ext_menu-2j .nav-dropdown-sm .link:hover,
+#ext_menu-2j .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-2j .nav-dropdown-sm .dropdown-item:hover {
+  background: #097e2b!important;
+}
+#ext_menu-2j .navbar,
+#ext_menu-2j .nav-dropdown-sm,
+#ext_menu-2j .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-2j .nav-dropdown-sm .dropdown-menu {
+  background: #0a8c30;
+}
+#ext_menu-2j .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-2j .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-2j .bg-color.transparent.opened .link:hover,
+#ext_menu-2j .bg-color.transparent.opened .link:focus {
+  color: #e25041;
+}
+#ext_menu-2j .link[aria-expanded="true"],
+#ext_menu-2j .dropdown-item[aria-expanded="true"] {
+  color: #e25041!important;
+}
+#ext_menu-2j .btn {
+  font-size: 12px;
+}
+#footer1-2k P {
+  font-size: 14px;
+}
+#msg-box3-2p .mbr-section-title,
+#msg-box3-2p p {
+  color: #000;
+}
+#msg-box3-2p .mbr-section-title {
+  font-family: 'Raleway', sans-serif;
+  font-size: 32px;
+}
+#msg-box3-2p .lead P {
+  font-size: 22px;
+  color: #2969b0;
+}
+#msg-box3-2p .lead DIV {
+  color: #2969b0;
 }
