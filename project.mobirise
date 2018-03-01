@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MITNet Exchange",
-    "currentPage": "index.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2023,6 +2023,47 @@
       },
       "components": [
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "font-size": "22px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1-d5rchcodw4fyjakhtgo5ha-1600x1000.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#056ad9",
+            "overlayOpacity": "0.7"
+          },
+          "title": "MITNet ICO Builder &nbsp;(Available soon)<br>",
+          "caption": "Launch your own ICO\n<div>Craft your own project. Create your own cryptocurrency.</div><div>Fast, Easy &amp; Effective</div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-2f"
+        },
+        {
           "_inherit": "menu",
           "_params": {
             "logo": false,
@@ -2225,47 +2266,6 @@
             }
           },
           "_anchor": "footer1-2e"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "30px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            },
-            "DIV": {
-              "color": "#ffffff",
-              "font-size": "22px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/1-d5rchcodw4fyjakhtgo5ha-1600x1000.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#056ad9",
-            "overlayOpacity": "0.7"
-          },
-          "title": "MITNet ICO Builder &nbsp;(Available soon)<br>",
-          "caption": "Launch your own ICO\n<div>Craft your own project. Create your own cryptocurrency.</div><div>Fast, Easy &amp; Effective</div>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-2f"
         }
       ]
     }

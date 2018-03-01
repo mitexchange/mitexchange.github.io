@@ -1287,6 +1287,18 @@ h6,
 
 
 
+#content5-2f .mbr-section-title,
+#content5-2f p {
+  color: #fff;
+}
+#content5-2f .mbr-section-title {
+  font-size: 30px;
+  font-family: 'Raleway', sans-serif;
+}
+#content5-2f DIV {
+  color: #ffffff;
+  font-size: 22px;
+}
 #ext_menu-2d .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1365,16 +1377,4 @@ h6,
 }
 #footer1-2e P {
   font-size: 14px;
-}
-#content5-2f .mbr-section-title,
-#content5-2f p {
-  color: #fff;
-}
-#content5-2f .mbr-section-title {
-  font-size: 30px;
-  font-family: 'Raleway', sans-serif;
-}
-#content5-2f DIV {
-  color: #ffffff;
-  font-size: 22px;
 }
