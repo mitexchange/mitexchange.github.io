@@ -2040,8 +2040,8 @@
           "_params": {
             "showTitle": true,
             "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "4",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/1-d5rchcodw4fyjakhtgo5ha-1600x1000.jpg",
             "parallax": true,
