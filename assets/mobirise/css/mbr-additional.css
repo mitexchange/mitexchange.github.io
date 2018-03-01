@@ -1284,3 +1284,97 @@ h6,
 #footer1-10 P {
   font-size: 14px;
 }
+
+
+
+#ext_menu-2d .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-2d .navbar-caption {
+  color: #ffffff;
+  font-size: 20px;
+}
+#ext_menu-2d .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-2d .close-icon::before,
+#ext_menu-2d .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-2d .link,
+#ext_menu-2d .dropdown-item {
+  color: #ffffff;
+}
+#ext_menu-2d .link {
+  font-size: 0.75rem;
+}
+#ext_menu-2d .dropdown-item,
+#ext_menu-2d .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#ext_menu-2d .link:hover,
+#ext_menu-2d .dropdown-item:hover,
+#ext_menu-2d .link:focus,
+#ext_menu-2d .dropdown-item:focus {
+  color: #e25041;
+}
+#ext_menu-2d .link[aria-expanded="true"],
+#ext_menu-2d .dropdown-menu {
+  background: #075c20;
+}
+#ext_menu-2d .nav-dropdown-sm .link:focus,
+#ext_menu-2d .nav-dropdown-sm .link:hover,
+#ext_menu-2d .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-2d .nav-dropdown-sm .dropdown-item:hover {
+  background: #097e2b!important;
+}
+#ext_menu-2d .navbar,
+#ext_menu-2d .nav-dropdown-sm,
+#ext_menu-2d .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-2d .nav-dropdown-sm .dropdown-menu {
+  background: #0a8c30;
+}
+#ext_menu-2d .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-2d .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-2d .bg-color.transparent.opened .link:hover,
+#ext_menu-2d .bg-color.transparent.opened .link:focus {
+  color: #e25041;
+}
+#ext_menu-2d .link[aria-expanded="true"],
+#ext_menu-2d .dropdown-item[aria-expanded="true"] {
+  color: #e25041!important;
+}
+#ext_menu-2d .btn {
+  font-size: 12px;
+}
+#content1-2h DIV {
+  font-size: 18px;
+}
+#extHeader10-2i H3 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 25px;
+}
+#extHeader10-2i P {
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+}
+#footer1-2e P {
+  font-size: 14px;
+}
+#content5-2f .mbr-section-title,
+#content5-2f p {
+  color: #fff;
+}
+#content5-2f .mbr-section-title {
+  font-size: 30px;
+  font-family: 'Raleway', sans-serif;
+}
+#content5-2f DIV {
+  color: #ffffff;
+  font-size: 22px;
+}

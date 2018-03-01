@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#a8d4ec",
+        "#8fc4e1",
         "#ede6c8",
         "#091523",
         "#232323",
         "#1a9c40",
-        "#034216",
-        "#0a8c30",
-        "#056ad9"
+        "#034216"
       ]
     },
     "favicon": "@PROJECT_PATH@/assets/images/logo-mitnet-128x128.png",
@@ -36,7 +36,7 @@
     "cookiesAlert": "",
     "siteUrl": "",
     "versionFirst": "4.4.1",
-    "uniqCompNum": 85,
+    "uniqCompNum": 91,
     "versionPublish": "4.4.1",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
@@ -1265,7 +1265,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "FAQ",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1541,7 +1541,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "Contact",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1743,7 +1743,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Terms and Conditions ",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -1881,7 +1881,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Privacy Policy",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -2012,6 +2012,260 @@
           ],
           "_name": "content1",
           "_anchor": "content1-19"
+        }
+      ]
+    },
+    "page6.html": {
+      "settings": {
+        "meta_descr": "Website Creator Description",
+        "title": "ICO Builder",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "bgColor": "#0a8c30",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">About Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extTable1-k\">Investment</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mitnet.exchange\">MITNet Instant Exchange</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#075c20"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#097e2b!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#0a8c30"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#e25041!important"
+            },
+            ".btn": {
+              "font-size": "12px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mitfavicon-176x107.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MITNet Exchange</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2d"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#a8d4ec"
+          },
+          "text": "<p><b>ICO Services – Launch Your ICO\n</b></p><p>We help campanies launch their own ICOs. We provide an all-inclusive infrastructure such as token creation &amp; distribution, ICO platform hosting, landing page design, PR, bounty, etc. Contact us to launch your own ICO now.</p><p><b><br></b></p><p><b>Smart Contracts\n</b></p><div><span style=\"font-size: 1.07rem;\">Smart contracts and blockchain technology are changing business the same way the internet did. Here at draglet we have the expertise to help you develop the right smart contract solutions so you can stay ahead of the curve. Come chat with us and let’s talk about how we can work together.</span></div><div><span style=\"font-size: 1.07rem;\"><br></span></div><div><span style=\"font-size: 1.07rem;\"><b>Digital Tokens\n</b></span></div><div><span style=\"font-size: 1.07rem;\">Utilizing blockchain technology, digital tokens revolutionize the way of transferring real-world assets. Ethereum tokens make it possible to buy, trade, and sell different types of assets on a blockchain. Contact us if you or your business are interested in implementing Ethereum tokens.</span></div><div><span style=\"font-size: 1.07rem;\"><br></span></div><div><span style=\"font-size: 1.07rem;\"><b>BlockChain</b></span></div><div><span style=\"font-size: 1.07rem;\">Build, deploy, and manage&nbsp;</span><span style=\"font-size: 1.07rem;\">private, interoperable </span><span style=\"font-size: 1.07rem;\">cryptocurrencies and blockchains.</span></div><div><span style=\"font-size: 1.07rem;\"><br></span></div><div><span style=\"font-size: 1.07rem;\"><b>ICO\n/IEO/ITO/IMO</b></span></div><div><span style=\"font-size: 1.07rem;\">ICO allows investors to support new initiatives using cryptocurrency and principles of crowdfunding. During an ICO’s crowdsale, participants purchase project-specific cryptocurrency tokens as a form of investment in the company. ICO represents the first stage of a project going public.</span></div><div><span style=\"font-size: 1.07rem;\"><br></span></div><div><span style=\"font-size: 1.07rem;\"><b>Pricing</b></span></div><div><span style=\"font-size: 1.07rem;\">Range from 10 ETH to 125 ETH</span></div><div><span style=\"font-size: 1.07rem;\"><br></span></div><div><span style=\"font-size: 1.07rem;\"><b>Time</b></span></div><div><span style=\"font-size: 1.07rem;\">Typical Project would take 10 days to 45 days, depends on the complexity of your project</span></div><div><span style=\"font-size: 1.07rem;\"><br></span><br></div><p></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2h",
+          "_styles": {
+            "DIV": {
+              "font-size": "18px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "showArrow": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bg4-1400x710.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#a8d4ec",
+            "overlayOpacity": "0.1"
+          },
+          "title": "ICO Builder",
+          "text": "Please fill in the form and our team will contact you for more details.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">GET STARTED</a>",
+          "form": {
+            "action": "firdauslee.rhb@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone*"
+              },
+              "message": {
+                "visible": true,
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader10",
+          "_anchor": "extHeader10-2i",
+          "_styles": {
+            "H3": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "25px"
+            },
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "18px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"page1.html\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>MITNet Exchange. 22B Moorefield Rd,\n<br>Wellington 6037,\n<br>New Zealand\n<br>Copyright (c) 2018 MIT Exchange&nbsp;All rights reserved",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "footer1-2e"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "DIV": {
+              "color": "#ffffff",
+              "font-size": "22px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1-d5rchcodw4fyjakhtgo5ha-1600x1000.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#056ad9",
+            "overlayOpacity": "0.7"
+          },
+          "title": "MITNet ICO Builder &nbsp;(Available soon)<br>",
+          "caption": "Launch your own ICO\n<div>Craft your own project. Create your own cryptocurrency.</div><div>Fast, Easy &amp; Effective</div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-2f"
         }
       ]
     }
