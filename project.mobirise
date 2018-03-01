@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MITNet Exchange",
-    "currentPage": "page6.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -30,7 +30,7 @@
         "#034216"
       ]
     },
-    "favicon": "@PROJECT_PATH@/assets/images/logo-mitnet-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-bitnet-105x106.png",
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "",
