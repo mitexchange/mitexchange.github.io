@@ -1253,7 +1253,7 @@
         {
           "_params": {
             "showTitles": true,
-            "tabs": "3",
+            "tabs": "4",
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": true,
@@ -1272,14 +1272,14 @@
           "title1": "Whitepaper<br>",
           "title2": "Full Team Members",
           "title3": "Github",
-          "title4": "Full Transparency&nbsp;",
+          "title4": "Social Network",
           "title5": "Tab heading 5",
           "title6": "Tab heading 6",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-m\" aria-expanded=\"false\">Whitepaper</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-m\" aria-expanded=\"false\">Team</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-m\" aria-expanded=\"true\">Github</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-m\" aria-expanded=\"true\">Transparency</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-m\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-m\">Beautiful</a></li>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-m\" aria-expanded=\"false\">Whitepaper</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-m\" aria-expanded=\"false\">Team</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-m\" aria-expanded=\"true\">Github</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-m\" aria-expanded=\"true\">Social</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-m\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-m\">Beautiful</a></li>",
           "text1": "Still in developemenntal stage and will be available after 25% completion of the MITNET token sales",
           "text2": "(Full team profile will be published in this site after 25% completion of the MITNET token sales.)<br><br><b>Allan Smith – CEO, Founder and Lead Developer</b>\n<br>Former site developer and security analyst for a data center and cyber security company that was\n<br>based out of Texas. Expertise in website and software development, along with information security.\n<br>Blockchain researcher and analyst.\n<br><br><b>Elizabeth Canley– COO, Co-Founder and Marketing Director\n</b><br>Elias has worked a government job that specializes in cyber security, as well as software and web\n<br>development. He developed an interest in cryptocurrency trading 2012, and as a trader himself, he\n<br>keeps the users in mind and will do anything possible to better MIT Ecosystem.<br>\n<br><b>Joseph Langley– CFO, Co-Founder and Business Analyst</b>\n<br>Financial analyst based out of San Diego. Focused on jumpstarting the cryptocurrency revolution\n<br>that is beginning to take hold in our current financial systems. Expertise in financial modeling.<br><br><b>Kelvin Brown– Lead of Technical Operations\n</b><br>IT Analyst based in Dublin, Ireland. Experience in server administration, information security, and\n<br>setting up servers with security in mind.<br>",
           "text3": "To be published soon",
-          "text4": "Unlike brokers, cryptocurrency exchanges have no laws requiring them to release financial\n<br>statements to the public. We at Bittasia think transparency is essential for any money service\n<br>business. Starting on our official launch, we will be releasing monthly financial statements that will\n<br>be readily available on our website. This will include but is not limited to; the income statement,\n<br>balance sheet, statement of cash flows, and other more specific data pieces such as coin volume.&nbsp;<br><br>We will be disclosing location of our servers &amp; nodes after 25% completion of our token sales.",
+          "text4": "Our markekting team will start to promote MITNet IEO project at various socal network after the completion of Early Birds Privarte Sales Event. At the meantime if you are interested to join the Early Birds Event, <a href=\"page3.html\">please contact us</a>.",
           "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
           "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
           "alias": "mobirise3-blocks/components",
@@ -1311,7 +1311,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"page1.html\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>MITNet Exchange. 22B Moorefield Rd,\n<br>Wellington 6037,\n<br>New Zealand\n<br>Copyright (c) 2018 MIT Exchange&nbsp;All rights reserved",
+          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"page1.html\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>MITNet Exchange. 22B Moorefield Rd,\n<br>Wellington 6037,\n<br>New Zealand<br>Email: <a href=\"mailto:admin@mitnet.exchange\">admin@mitnet.exchange</a><br>Copyright (c) 2018 MIT Exchange&nbsp;All rights reserved",
           "_tags": [
             "Theme"
           ],
@@ -1436,7 +1436,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"page1.html\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>MITNet Exchange. 22B Moorefield Rd,\n<br>Wellington 6037,\n<br>New Zealand\n<br>Copyright (c) 2018 MIT Exchange&nbsp;All rights reserved",
+          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"page1.html\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>MITNet Exchange. 22B Moorefield Rd,\n<br>Wellington 6037,\n<br>New Zealand<br>Email: <a href=\"mailto:admin@mitnet.exchange\">admin@mitnet.exchange</a><br>Copyright (c) 2018 MIT Exchange&nbsp;All rights reserved",
           "_tags": [
             "Theme"
           ],
@@ -1574,7 +1574,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"page1.html\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>MITNet Exchange. 22B Moorefield Rd,\n<br>Wellington 6037,\n<br>New Zealand\n<br>Copyright (c) 2018 MIT Exchange&nbsp;All rights reserved",
+          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"page1.html\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>MITNet Exchange. 22B Moorefield Rd,\n<br>Wellington 6037,\n<br>New Zealand<br>Email: <a href=\"mailto:admin@mitnet.exchange\">admin@mitnet.exchange</a><br>Copyright (c) 2018 MIT Exchange&nbsp;All rights reserved",
           "_tags": [
             "Theme"
           ],
@@ -1712,7 +1712,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"page1.html\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>MITNet Exchange. 22B Moorefield Rd,\n<br>Wellington 6037,\n<br>New Zealand\n<br>Copyright (c) 2018 MIT Exchange&nbsp;All rights reserved",
+          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"page1.html\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>MITNet Exchange. 22B Moorefield Rd,\n<br>Wellington 6037,\n<br>New Zealand<br>Email: <a href=\"mailto:admin@mitnet.exchange\">admin@mitnet.exchange</a><br>Copyright (c) 2018 MIT Exchange&nbsp;All rights reserved",
           "_tags": [
             "Theme"
           ],
@@ -1914,7 +1914,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"page1.html\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>MITNet Exchange. 22B Moorefield Rd,\n<br>Wellington 6037,\n<br>New Zealand\n<br>Copyright (c) 2018 MIT Exchange&nbsp;All rights reserved",
+          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"page1.html\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>MITNet Exchange. 22B Moorefield Rd,\n<br>Wellington 6037,\n<br>New Zealand<br>Email: <a href=\"mailto:admin@mitnet.exchange\">admin@mitnet.exchange</a><br>Copyright (c) 2018 MIT Exchange&nbsp;All rights reserved",
           "_tags": [
             "Theme"
           ],
@@ -2052,7 +2052,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"page1.html\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>MITNet Exchange. 22B Moorefield Rd,\n<br>Wellington 6037,\n<br>New Zealand\n<br>Copyright (c) 2018 MIT Exchange&nbsp;All rights reserved",
+          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"page1.html\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>MITNet Exchange. 22B Moorefield Rd,\n<br>Wellington 6037,\n<br>New Zealand<br>Email: <a href=\"mailto:admin@mitnet.exchange\">admin@mitnet.exchange</a><br>Copyright (c) 2018 MIT Exchange&nbsp;All rights reserved",
           "_tags": [
             "Theme"
           ],
@@ -2319,7 +2319,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"page1.html\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>MITNet Exchange. 22B Moorefield Rd,\n<br>Wellington 6037,\n<br>New Zealand\n<br>Copyright (c) 2018 MIT Exchange&nbsp;All rights reserved",
+          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"page1.html\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>MITNet Exchange. 22B Moorefield Rd,\n<br>Wellington 6037,\n<br>New Zealand<br>Email: <a href=\"mailto:admin@mitnet.exchange\">admin@mitnet.exchange</a><br>Copyright (c) 2018 MIT Exchange&nbsp;All rights reserved",
           "_tags": [
             "Theme"
           ],
@@ -2443,7 +2443,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"page1.html\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>MITNet Exchange. 22B Moorefield Rd,\n<br>Wellington 6037,\n<br>New Zealand\n<br>Copyright (c) 2018 MIT Exchange&nbsp;All rights reserved",
+          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"page1.html\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>MITNet Exchange. 22B Moorefield Rd,\n<br>Wellington 6037,\n<br>New Zealand<br>Email: <a href=\"mailto:admin@mitnet.exchange\">admin@mitnet.exchange</a><br>Copyright (c) 2018 MIT Exchange&nbsp;All rights reserved",
           "_tags": [
             "Theme"
           ],
