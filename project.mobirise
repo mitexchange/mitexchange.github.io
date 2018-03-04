@@ -320,7 +320,7 @@
           "info2": "entries",
           "info3": "(filtered from",
           "info4": "total entries)",
-          "table": "<thead><tr><th>Project</th><th>Remarks</th></tr></thead><tbody><tr><td>Instant Exchange `(100%)</td><td>Functional. <a href=\"https://mitnet.exchange\" class=\"text-danger\">Here</a></td></tr><tr><td>ICO Builder (83%)</td><td><a href=\"page6.html\" class=\"text-danger\">View Here</a></td></tr><tr><td>Local Exchange (50%)</td><td><a href=\"page7.html\" class=\"text-danger\">View Here</a></td></tr><tr><td>Decentralised Exchange (3%)</td><td>Early Stage</td></tr><tr><td>Crypto-Racing Game (3%)</td><td>Early Stage</td></tr></tbody>",
+          "table": "<thead><tr><th>Project</th><th>Remarks</th></tr></thead><tbody><tr><td>Instant Exchange `(100%)</td><td>Functional. <a href=\"https://mitnet.exchange\" class=\"text-danger\">Here</a></td></tr><tr><td>ICO Builder (83%)</td><td><a href=\"page6.html\" class=\"text-danger\">View Here</a></td></tr><tr><td>Local Exchange (50%)</td><td><a href=\"page7.html\" class=\"text-danger\">View Here</a></td></tr><tr><td>Decentralised Exchange (3%)</td><td>Early Stage<br><a href=\"https://mitnetdex.github.io/\" class=\"text-danger\">View Here</a></td></tr><tr><td>Crypto-Racing Game (3%)</td><td>Early Stage</td></tr></tbody>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
