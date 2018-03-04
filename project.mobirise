@@ -204,7 +204,7 @@
             "overlayColor": "#2969b0",
             "overlayOpacity": "0.5"
           },
-          "title": "<span style=\"font-weight: normal;\"><a href=\"https://mitnet.exchange\" class=\"text-warning\">MITNet Exchange</a><br>Initial Exchange Offering<br>Starting 1 March 2018<br>Ending &nbsp;31 May 2018<br><br>Contribution Address ( One Only)</span><br><span style=\"font-weight: normal;\"><br>0x195aA31aa5AA797C317A30C9cD8DFfcec8d6c920</span>",
+          "title": "<span style=\"font-weight: normal;\"><a href=\"https://mitnet.exchange\" class=\"text-warning\">MITNet Exchange</a><br>Initial Exchange Offering<br>Starting 1 March 2018<br>Ending &nbsp;31 May 2018<br></span>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
