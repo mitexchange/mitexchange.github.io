@@ -36,7 +36,7 @@
     "cookiesAlert": "",
     "siteUrl": "",
     "versionFirst": "4.4.1",
-    "uniqCompNum": 105,
+    "uniqCompNum": 106,
     "versionPublish": "4.4.1",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
@@ -222,6 +222,27 @@
         },
         {
           "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#a8d4ec"
+          },
+          "text": "<p>​Always check the URL and verify the contribution address before sending ETH.</p><p><span style=\"font-size: 1.07rem;\">​​</span></p><div>We only accept ETH.</div><div>\n</div><div>Minimum contribution 0.1 ETH.</div><div><br></div><div>◎ Please use IMToken Wallet, TRUST Wallet or MyEtherWallet to receive your token</div><div>◎ Due to unforseenable transaction traffic, please allow 2-6 hours for the token to be delivered to you ERC20 Wallet</div><div><br></div><div>Make sure that you send Ether from wallet that supports ERC20 tokens or from an address for which you control the private key. Otherwise you will not be able interact with the MITNET tokens received. Do not send ETH directly from an exchange to the IEO/ICO address.</div><p></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2v",
+          "_styles": {
+            "DIV": {
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
             "showTitle": true,
             "showSearch": false,
             "rowСount": "12",
@@ -268,67 +289,6 @@
             },
             "TD": {
               "font-size": "19px"
-            }
-          }
-        },
-        {
-          "_inherit": "msg-box8",
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#000"
-            },
-            ".mbr-section-title": {
-              "font-size": "23px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Contribution&nbsp;",
-          "text": "<p>Always check the URL and verify the contribution address before sending ETH.\r<span style=\"font-size: 1.07rem;\"></span></p><p>​0x195aA31aa5AA797C317A30C9cD8DFfcec8d6c920</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-2w"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#a8d4ec"
-          },
-          "text": "<p>​Always check the URL and verify the contribution address before sending ETH.</p><p><br></p><p>\n</p><div>​<b>0x195aA31aa5AA797C317A30C9cD8DFfcec8d6c920\n</b></div><div>​​</div><div>We only accept ETH.</div><div>\n</div><div>Minimum contribution 0.1 ETH.</div><div><br></div><div>◎ Please use IMToken Wallet, TRUST Wallet or MyEtherWallet to receive your token</div><div>◎ Due to unforseenable transaction traffic, please allow 2-6 hours for the token to be delivered to you ERC20 Wallet</div><div><br></div><div>Make sure that you send Ether from wallet that supports ERC20 tokens or from an address for which you control the private key. Otherwise you will not be able interact with the MITNET tokens received. Do not send ETH directly from an exchange to the IEO/ICO address.</div><p></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-2v",
-          "_styles": {
-            "DIV": {
-              "text-align": "left"
-            },
-            "P": {
-              "text-align": "left"
             }
           }
         },
