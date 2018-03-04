@@ -785,6 +785,12 @@ h6,
 #extTable1-k TD {
   font-size: 19px;
 }
+#content1-2v DIV {
+  text-align: left;
+}
+#content1-2v P {
+  text-align: left;
+}
 #content2-2r BLOCKQUOTE {
   font-family: 'Raleway', sans-serif;
 }

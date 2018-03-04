@@ -36,7 +36,7 @@
     "cookiesAlert": "",
     "siteUrl": "",
     "versionFirst": "4.4.1",
-    "uniqCompNum": 102,
+    "uniqCompNum": 104,
     "versionPublish": "4.4.1",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
@@ -204,7 +204,7 @@
             "overlayColor": "#2969b0",
             "overlayOpacity": "0.5"
           },
-          "title": "<a href=\"https://mitnet.exchange\" class=\"text-warning\">MITNet Exchange</a><br>Initial Exchange Offering<br>Starting 1 March 2018<br>Ending &nbsp;31 May 2018",
+          "title": "<span style=\"font-weight: normal;\"><a href=\"https://mitnet.exchange\" class=\"text-warning\">MITNet Exchange</a><br>Initial Exchange Offering<br>Starting 1 March 2018<br>Ending &nbsp;31 May 2018<br><br>Contribution Address ( One Only)</span><br><span style=\"font-weight: normal;\"><br>0x195aA31aa5AA797C317A30C9cD8DFfcec8d6c920</span>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
@@ -268,6 +268,27 @@
             },
             "TD": {
               "font-size": "19px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#a8d4ec"
+          },
+          "text": "<p>​Always check the URL and verify the contribution address before sending ETH.</p><p><br></p><p>\n</p><div>​<b>0x195aA31aa5AA797C317A30C9cD8DFfcec8d6c920\n</b></div><div>​​</div><div>We only accept ETH.</div><div>\n</div><div>Minimum contribution 0.1 ETH.</div><div><br></div><div>◎ Please use IMToken Wallet, TRUST Wallet or MyEtherWallet to receive your token</div><div>◎ Due to unforseenable transaction traffic, please allow 2-6 hours for the token to be delivered to you ERC20 Wallet</div><div><br></div><div>Make sure that you send Ether from wallet that supports ERC20 tokens or from an address for which you control the private key. Otherwise you will not be able interact with the 24K tokens received. Do not send ETH directly from an exchange to the IEO/ICO address.</div><p></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2v",
+          "_styles": {
+            "DIV": {
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
             }
           }
         },
