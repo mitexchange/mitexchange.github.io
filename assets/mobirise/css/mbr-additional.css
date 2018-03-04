@@ -25,6 +25,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -784,6 +785,14 @@ h6,
 }
 #extTable1-k TD {
   font-size: 19px;
+}
+#msg-box3-2w .mbr-section-title,
+#msg-box3-2w p {
+  color: #000;
+}
+#msg-box3-2w .mbr-section-title {
+  font-size: 23px;
+  font-family: 'Raleway', sans-serif;
 }
 #content1-2v DIV {
   text-align: left;
