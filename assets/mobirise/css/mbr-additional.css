@@ -782,9 +782,13 @@ h6,
 }
 #msg-box1-2y H2 {
   font-family: 'Raleway', sans-serif;
+  color: #000000;
 }
 #msg-box1-2y H3 {
   font-family: 'Raleway', sans-serif;
+  font-size: 23px;
+}
+#msg-box1-2y SPAN {
   font-size: 23px;
 }
 #extTable1-k .mbr-section-title {

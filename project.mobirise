@@ -243,7 +243,7 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": false,
@@ -262,8 +262,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "0x195aA31aa5AA797C317A30C9cD8DFfcec8d6c920",
-          "text": "Contribution Address:",
+          "title": "",
+          "text": "Contribution Address:<br><span style=\"font-style: normal;\"><b>0x195aA31aa5AA797C317A30C9cD8DFfcec8d6c920</b></span>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
           "_tags": [
             "Theme"
@@ -273,11 +273,15 @@
           "_styles": {
             "H2": {
               "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#000000"
             },
             "H3": {
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "23px"
+            },
+            "SPAN": {
               "font-size": "23px"
             }
           }
