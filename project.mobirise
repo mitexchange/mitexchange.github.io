@@ -305,7 +305,7 @@
             },
             "overlay": true,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.4
+            "overlayOpacity": "0.3"
           },
           "title": "MITNet IEO/ICO Details",
           "search": "Search:",
