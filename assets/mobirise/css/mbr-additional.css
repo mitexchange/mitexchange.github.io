@@ -769,13 +769,12 @@ h6,
   color: #f7da64;
   font-size: 18px;
 }
-#extCountdown1-3 .mbr-section-title {
+#extCountdown1-33 .mbr-section-title DIV {
   font-size: 22px;
-  color: #ffffff;
-  font-family: 'Raleway', sans-serif;
 }
-#extCountdown1-3 .mbr-section-title SPAN {
-  color: #000000;
+#extCountdown1-33 .mbr-section-title {
+  font-family: 'Raleway', sans-serif;
+  font-size: 22px;
 }
 #msg-box1-2y H2 {
   font-family: 'Raleway', sans-serif;

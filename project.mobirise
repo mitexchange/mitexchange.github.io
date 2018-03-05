@@ -36,7 +36,7 @@
     "cookiesAlert": "",
     "siteUrl": "",
     "versionFirst": "4.4.1",
-    "uniqCompNum": 111,
+    "uniqCompNum": 112,
     "versionPublish": "4.4.1",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
@@ -189,8 +189,8 @@
           "_params": {
             "showTitle": true,
             "countdown": "2018/05/31",
-            "paddingTop": "1",
-            "paddingBottom": "3",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/c992bbccc182ff28a29b9098d59444dd-1000-1731x1000.jpg",
             "parallax": false,
@@ -201,25 +201,24 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": false,
-            "overlayColor": "#2969b0",
-            "overlayOpacity": "0.6"
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
           },
-          "title": "<a href=\"https://mitnet.exchange\" class=\"text-black\">MITNet Exchange</a><br><span style=\"font-weight: normal;\">Initial Exchange Offering</span><br><span style=\"font-weight: normal;\">Starting 1 March 2018</span><br><span style=\"font-weight: normal;\">Ending &nbsp;31 May 2018</span><br>",
+          "title": "MITNet Exchange\n<div><span style=\"font-weight: normal;\">Initial Exchange Offering\n</span></div><div><span style=\"font-weight: normal;\">Starting 1 March 2018\n</span></div><div><span style=\"font-weight: normal;\">Ending  31 May 2018</span></div>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
           ],
           "_name": "extCountdown1",
-          "_anchor": "extCountdown1-3",
+          "_anchor": "extCountdown1-33",
           "_styles": {
-            ".mbr-section-title": {
-              "font-size": "22px",
-              "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            ".mbr-section-title DIV": {
+              "font-size": "22px"
             },
-            ".mbr-section-title SPAN": {
-              "color": "#000000"
+            ".mbr-section-title": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "22px"
             }
           }
         },
@@ -230,7 +229,7 @@
             "showButtons": false,
             "inverse": false,
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
