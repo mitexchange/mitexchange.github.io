@@ -173,7 +173,7 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#034216",
             "overlayOpacity": "0.4"
           },
@@ -190,7 +190,7 @@
             "showTitle": true,
             "countdown": "2018/05/31",
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/c992bbccc182ff28a29b9098d59444dd-1000-1731x1000.jpg",
             "parallax": false,
@@ -220,27 +220,6 @@
             },
             ".mbr-section-title SPAN": {
               "color": "#000000"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#a8d4ec"
-          },
-          "text": "<p>​Always check the URL and verify the contribution address before sending ETH.</p><p><span style=\"font-size: 1.07rem;\">​​</span></p><div>We only accept ETH.</div><div>\n</div><div>Minimum contribution 0.1 ETH.</div><div><br></div><div>◎ Please use IMToken Wallet, TRUST Wallet or MyEtherWallet to receive your token</div><div>◎ Due to unforseenable transaction traffic, please allow 2-6 hours for the token to be delivered to you ERC20 Wallet</div><div><br></div><div>Make sure that you send Ether from wallet that supports ERC20 tokens or from an address for which you control the private key. Otherwise you will not be able interact with the MITNET tokens received. Do not send ETH directly from an exchange to the IEO/ICO address.</div><p></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-2v",
-          "_styles": {
-            "DIV": {
-              "text-align": "left"
-            },
-            "P": {
-              "text-align": "left"
             }
           }
         },
@@ -286,6 +265,27 @@
             },
             "SPAN": {
               "font-size": "23px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#a8d4ec"
+          },
+          "text": "<p>​Always check the URL and verify the contribution address before sending ETH.</p><p><span style=\"font-size: 1.07rem;\">​​</span></p><div>We only accept ETH.</div><div>\n</div><div>Minimum contribution 0.1 ETH.</div><div><br></div><div>◎ Please use IMToken Wallet, TRUST Wallet or MyEtherWallet to receive your token</div><div>◎ Due to unforseenable transaction traffic, please allow 2-6 hours for the token to be delivered to you ERC20 Wallet</div><div><br></div><div>Make sure that you send Ether from wallet that supports ERC20 tokens or from an address for which you control the private key. Otherwise you will not be able interact with the MITNET tokens received. Do not send ETH directly from an exchange to the IEO/ICO address.</div><p></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2v",
+          "_styles": {
+            "DIV": {
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
             }
           }
         },

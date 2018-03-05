@@ -777,12 +777,6 @@ h6,
 #extCountdown1-3 .mbr-section-title SPAN {
   color: #000000;
 }
-#content1-2v DIV {
-  text-align: left;
-}
-#content1-2v P {
-  text-align: left;
-}
 #msg-box1-2y H2 {
   font-family: 'Raleway', sans-serif;
   color: #000000;
@@ -793,6 +787,12 @@ h6,
 }
 #msg-box1-2y SPAN {
   font-size: 23px;
+}
+#content1-2v DIV {
+  text-align: left;
+}
+#content1-2v P {
+  text-align: left;
 }
 #extTable1-k .mbr-section-title {
   font-family: 'Raleway', sans-serif;
