@@ -36,7 +36,7 @@
     "cookiesAlert": "",
     "siteUrl": "",
     "versionFirst": "4.4.1",
-    "uniqCompNum": 107,
+    "uniqCompNum": 111,
     "versionPublish": "4.4.1",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
@@ -202,7 +202,7 @@
             },
             "overlay": true,
             "overlayColor": "#2969b0",
-            "overlayOpacity": "0.5"
+            "overlayOpacity": "0.6"
           },
           "title": "<span style=\"font-weight: normal;\"><a href=\"https://mitnet.exchange\" class=\"text-warning\">MITNet Exchange</a><br>Initial Exchange Offering<br>Starting 1 March 2018<br>Ending &nbsp;31 May 2018<br></span>",
           "alias": "mobirise3-blocks/components",
