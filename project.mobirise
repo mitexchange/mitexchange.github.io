@@ -190,7 +190,7 @@
             "showTitle": true,
             "countdown": "2018/05/31",
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/c992bbccc182ff28a29b9098d59444dd-1000-1731x1000.jpg",
             "parallax": false,
