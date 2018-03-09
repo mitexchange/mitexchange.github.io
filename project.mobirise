@@ -310,7 +310,7 @@
             "overlayOpacity": 0.5
           },
           "title": "PRE MADE BLOCKS",
-          "text": "<span style=\"font-style: normal;\">How to participate in MITNet IEO/ICO:</span><br><span style=\"font-style: normal;\"><br>1. Please send ETHER to the Contribution Address: 0x195aA31aa5AA797C317A30C9cD8DFfcec8d6c920<br><br>2. Please <a href=\"https://mitnet.tapfiliate.com/programs/mitniet-exchange/signup/\"><b>sign up</b></a> at our affiliate page to entitle 10% affiliate bonus &amp; transaction fee revenue sharing</span>",
+          "text": "<span style=\"font-style: normal;\">How to participate in MITNet IEO/ICO:</span><br><span style=\"font-style: normal;\"><br>1. Please send ETHER to the Contribution Address: 0x195aA31aa5AA797C317A30C9cD8DFfcec8d6c920<br><br>2. Please <a href=\"https://mitnet.tapfiliate.com/programs/mitniet-exchange/signup/\"><b>sign up</b></a> at our affiliate page to entitle 10% affiliate bonus &amp; transaction fee revenue sharing</span><br><br><span style=\"font-style: normal;\">Thank you</span>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mitnet.tapfiliate.com/programs/mitniet-exchange/signup/\" data-toolbar=\"-mbrBtnMove\">Affiliate Sign Up</a>",
           "_tags": [
             "Theme"
@@ -324,7 +324,9 @@
               "color": "#1141f4"
             },
             ".btn": {
-              "font-size": "15px"
+              "font-size": "16px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }
           }
         },

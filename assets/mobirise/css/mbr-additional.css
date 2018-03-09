@@ -28,6 +28,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -799,7 +800,8 @@ h6,
   color: #1141f4;
 }
 #msg-box1-34 .btn {
-  font-size: 15px;
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
 }
 #extTable1-k .mbr-section-title {
   font-family: 'Raleway', sans-serif;
