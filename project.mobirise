@@ -7,7 +7,7 @@
       "title": "Mobirise 3",
       "styling": {
         "primaryColor": "#e25041",
-        "secondaryColor": "#bfcecb",
+        "secondaryColor": "#553982",
         "successColor": "#1a9c40",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#bfcecb",
         "#1141f4",
         "#a8d4ec",
         "#8fc4e1",
         "#ede6c8",
         "#091523",
-        "#232323",
-        "#1a9c40"
+        "#232323"
       ]
     },
     "favicon": "@PROJECT_PATH@/assets/images/logo-bitnet-105x106.png",
@@ -36,7 +36,7 @@
     "cookiesAlert": "",
     "siteUrl": "",
     "versionFirst": "4.4.1",
-    "uniqCompNum": 113,
+    "uniqCompNum": 114,
     "versionPublish": "4.4.1",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
@@ -292,7 +292,7 @@
           "_params": {
             "showTitle": false,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": false,
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -327,6 +327,24 @@
               "font-size": "16px",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mitnet.tapfiliate.com/programs/mitniet-exchange/signup/\" data-toolbar=\"-mbrBtnMove\">New Sign Up</a> <a data-app-btn=\"true\" class=\"btn btn-secondary-outline btn-secondary\" href=\"https://mitnet.tapfiliate.com/login\" data-toolbar=\"-mbrBtnMove\">Sign in to check Bonus</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-35",
+          "_styles": {
+            ".btn": {
+              "font-size": "16px"
             }
           }
         },
