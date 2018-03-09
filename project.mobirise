@@ -1,14 +1,14 @@
 {
   "settings": {
-    "name": "MITNet Exchange",
+    "name": "GetModer",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
         "primaryColor": "#e25041",
-        "secondaryColor": "#553982",
-        "successColor": "#1a9c40",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#553982",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
         "dangerColor": "#2969b0",
@@ -21,7 +21,7 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#bfcecb",
+        "#e6e6e6",
         "#1141f4",
         "#a8d4ec",
         "#8fc4e1",
@@ -30,13 +30,13 @@
         "#232323"
       ]
     },
-    "favicon": "@PROJECT_PATH@/assets/images/logo-bitnet-105x106.png",
+    "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "",
     "siteUrl": "",
     "versionFirst": "4.4.1",
-    "uniqCompNum": 114,
+    "uniqCompNum": 136,
     "versionPublish": "4.4.1",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
@@ -48,7 +48,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "MITNet Instant Crypto Exchange",
+        "title": "Getmoder New Concept of Financing Leasing",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -58,13 +58,13 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "bgColor": "#0a8c30",
+            "bgColor": "#2969b0",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -101,13 +101,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#075c20"
+              "background": "#1f5087"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#097e2b!important"
+              "background": "#2662a4!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#0a8c30"
+              "background": "#2969b0"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -129,7 +129,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mitfavicon-176x107.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-200x200.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -141,58 +141,18 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MITNet Exchange</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GETModer</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-2"
         },
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "color": "#f7da64",
-              "font-size": "30px"
-            },
-            "P": {
-              "color": "#f7da64",
-              "font-size": "18px"
-            }
-          },
           "_params": {
             "showTitle": true,
-            "showCaption": true,
-            "paddingTop": "4",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/hft-image-1500x1000.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#034216",
-            "overlayOpacity": "0.4"
-          },
-          "title": "MITNet Exchange 2018",
-          "caption": "<p>The Safest, Fastest Asset Exchange&nbsp;<span style=\"font-size: 1.07rem;\">at the best rate. </span><span style=\"font-size: 1.07rem;\">Transfer from one wallet to another within seconds. It's that simple. &nbsp;</span><span style=\"font-size: 1.07rem;\">Trade any leading blockchain asset for any other. Protection by Design. No Account Needed.</span></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-1"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "countdown": "2018/05/31",
+            "countdown": "2018/06/15",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/c992bbccc182ff28a29b9098d59444dd-1000-1731x1000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/picture2-1209x680.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#e9e9e9",
@@ -204,7 +164,7 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.75
           },
-          "title": "MITNet Exchange\n<div><span style=\"font-weight: normal;\">Initial Exchange Offering\n</span></div><div><span style=\"font-weight: normal;\">Starting 1 March 2018\n</span></div><div><span style=\"font-weight: normal;\">Ending  31 May 2018</span></div>",
+          "title": "<div><font color=\"#232323\">GETModer</font></div><div>Initial Token Offering\n</div><div>Starting 15 March 2018\n</div><div>Ending  31 June 2018</div>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
@@ -213,253 +173,15 @@
           "_anchor": "extCountdown1-33",
           "_styles": {
             ".mbr-section-title DIV": {
-              "font-size": "22px"
+              "font-size": "22px",
+              "color": "#000000",
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
             },
             ".mbr-section-title": {
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "22px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "",
-          "text": "Contribution Address:<br><span style=\"font-style: normal;\"><b>0x195aA31aa5AA797C317A30C9cD8DFfcec8d6c920</b></span>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-2y",
-          "_styles": {
-            "H2": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#000000"
-            },
-            "H3": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "23px"
-            },
-            "SPAN": {
-              "font-size": "23px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#a8d4ec"
-          },
-          "text": "<p>​Always check the URL and verify the contribution address before sending ETH.</p><p><span style=\"font-size: 1.07rem;\">​​</span></p><div>We only accept ETH.</div><div>\n</div><div>Minimum contribution 0.1 ETH.</div><div><br></div><div>◎ Please use IMToken Wallet, TRUST Wallet or MyEtherWallet to receive your token</div><div>◎ Due to unforseenable transaction traffic, please allow 2-6 hours for the token to be delivered to you ERC20 Wallet</div><div><br></div><div>Make sure that you send Ether from wallet that supports ERC20 tokens or from an address for which you control the private key. Otherwise you will not be able interact with the MITNET tokens received. Do not send ETH directly from an exchange to the IEO/ICO address.</div><p></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-2v",
-          "_styles": {
-            "DIV": {
-              "text-align": "left"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "PRE MADE BLOCKS",
-          "text": "<span style=\"font-style: normal;\">How to participate in MITNet IEO/ICO:</span><br><span style=\"font-style: normal;\"><br>1. Please send ETHER to the Contribution Address: <b>0x195aA31aa5AA797C317A30C9cD8DFfcec8d6c920</b><br><br>2. Please also&nbsp;<a href=\"https://mitnet.tapfiliate.com/programs/mitniet-exchange/signup/\"><b>sign up</b></a> at our affiliate page to entitle 10% affiliate bonus &amp; transaction fee revenue sharing</span><br><br><span style=\"font-style: normal;\">Thank you</span>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mitnet.tapfiliate.com/programs/mitniet-exchange/signup/\" data-toolbar=\"-mbrBtnMove\">Affiliate Sign Up</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-34",
-          "_styles": {
-            "SPAN": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#1141f4"
-            },
-            ".btn": {
-              "font-size": "16px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mitnet.tapfiliate.com/programs/mitniet-exchange/signup/\" data-toolbar=\"-mbrBtnMove\">New Sign Up</a> <a data-app-btn=\"true\" class=\"btn btn-secondary-outline btn-secondary\" href=\"https://mitnet.tapfiliate.com/login\" data-toolbar=\"-mbrBtnMove\">Sign in to check Bonus</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-35",
-          "_styles": {
-            ".btn": {
-              "font-size": "16px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showSearch": false,
-            "rowСount": "12",
-            "colCount": "2",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/thrn06-compressor-2000x1125.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": "0.3"
-          },
-          "title": "MITNet IEO/ICO Details",
-          "search": "Search:",
-          "info1": "Showing",
-          "info2": "entries",
-          "info3": "(filtered from",
-          "info4": "total entries)",
-          "table": "<thead><tr><th>Subject</th><th>Details</th></tr></thead><tbody><tr><td><b>Token</b></td><td><b>MITNet</b></td></tr><tr><td><b>Symbol</b></td><td><b><a href=\"index.html#content2-2r\" class=\"text-danger\">MITNET</a></b></td></tr><tr><td><b>Network</b></td><td><b>Ethereum</b></td></tr><tr><td><b>Total Supply</b></td><td><b>250 M</b></td></tr><tr><td><b>Circulating</b></td><td><b>200 M</b></td></tr><tr><td><b>Starting</b></td><td><b>01 March 2018</b></td></tr><tr><td><b>Ending</b></td><td><b>31 May 2018</b></td></tr><tr><td><b>Minimum</b></td><td><b>0.1 ETH</b></td></tr><tr><td><b>Stage 1</b></td><td><b>Early Bird</b></td></tr><tr><td><b>Stage 2</b></td><td><b>Pre-ICO</b></td></tr><tr><td><b>Stage 3</b></td><td><b>ICO</b></td></tr><tr><td><span style=\"font-size: 17px;\"><b>Hard Cap</b></span></td><td><span style=\"font-size: 17px;\"><b>USD 20 Million</b></span></td></tr></tbody>",
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extTable1",
-          "_anchor": "extTable1-k",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "22px"
-            },
-            "TH": {
-              "font-size": "17px"
-            },
-            "B": {
-              "font-size": "17px"
-            },
-            "TD": {
-              "font-size": "19px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "text": "<blockquote><p><span style=\"font-style: normal;\">MITNET token acts as the common currency in all of the MITNet projects.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\"> </span></p><p><span style=\"font-style: normal;\">MITNET will be used as the main mean of payment currency for all usage and subscription of products &amp; platforms in the MITNet Ecosystem.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Benefits</span></p><p><span style=\"font-style: normal;\">1) Increasing global demand of MITNET tokens for its utility purposes, coupled with fixed limited supply, may stimulate price movement and hence steady growth in the future value.</span></p><p><span style=\"font-style: normal;\">2) Realistic revenue sharing from the exchange's monthly transaction fee</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">MITNET token demand is driven by the growth of the users community and usage of the token on the platforms. There will be 5 utilities of the Token, each utility was designed to create activity and network effects on each of the 5 platform.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">What is an IEO?\n</span></p><p><span style=\"font-style: normal;\">IEO stands for Initial Exchange Offering.Usually, before the new cryptocurrency emerges, the individual or company will need to raise money for all the technical development or future platforms/products that is needed. So, they usually sell tokens in exchange for more established cryptocurrencies.</span></p></blockquote>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-2r",
-          "_styles": {
-            "BLOCKQUOTE": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            },
-            "P": {
-              "color": "#000000"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showSearch": false,
-            "rowСount": "5",
-            "colCount": "2",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/corporate-grey-low-poly-geometric-motion-background-video-animation-hd-1920x1080-nypfik1eg-f0008-1920x1080.png",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#c0a375",
-            "overlayOpacity": 0.4
-          },
-          "title": "MITNet IEO to fund following projects",
-          "search": "Search:",
-          "info1": "Showing",
-          "info2": "entries",
-          "info3": "(filtered from",
-          "info4": "total entries)",
-          "table": "<thead><tr><th>Project</th><th>Remarks</th></tr></thead><tbody><tr><td>Instant Exchange `(100%)</td><td>Functional. <a href=\"https://mitnet.exchange\" class=\"text-danger\">Here</a></td></tr><tr><td>ICO Builder (83%)</td><td><a href=\"page6.html\" class=\"text-danger\">View Here</a></td></tr><tr><td>Local Exchange (50%)</td><td><a href=\"page7.html\" class=\"text-danger\">View Here</a></td></tr><tr><td>Decentralised Exchange (3%)</td><td>Early Stage<br><a href=\"https://mitnetdex.github.io/\" class=\"text-danger\">View Here</a></td></tr><tr><td>Crypto-Racing Game (3%)</td><td>Early Stage</td></tr></tbody>",
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extTable1",
-          "_anchor": "extTable1-2q",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "21px"
             }
           }
         },
@@ -467,23 +189,15 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
-            },
-            "DIV": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-title": {
-              "font-size": "25px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           },
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showCaption": true,
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/c992bbccc182ff28a29b9098d59444dd-1000-1731x1000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/head-bacground-1965x734.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -491,460 +205,84 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
-            "overlayColor": "#2969b0",
-            "overlayOpacity": "0.8"
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
           },
-          "title": "MITNet Ecosystem Overall View\n",
-          "caption": "<div>Welcome to <b>MITNet Exchange</b></div><div>\n</div><div>MITNet Exchange is an instant wallet to wallet cryptocurrency exchange service between digital currencies. The service offers a wide range of digital currencies to buy and sell but does not provide conversion to or from traditional currencies. MIT aggregates and suggests the best currency rates among the largest crypto trading platforms. The primary object of MIT is to remove technical barriers between customers and the cryptocurrency ecosystem.</div><div><br></div><div>\n</div><div>\n</div><div>MITNet is a web and API platform formed in Feb 2018 to provide instant Bitcoin and altcoin conversion with the maximum level of consumer protection and efficiency.</div><div><br></div><div>\n</div><div>\n</div><div>Users do not have to create accounts, deposit funds, or provide private personal information. This keeps the users safe from identity or financial theft – a critical improvement in exchange technology.</div><div><br></div><div>\n</div><div>\n</div><div>MITNet is a hybrid blockchain technology company focused on cryptocurrency exchange, gaming app &amp; ICO builder for startup companies. We have developed a highly scalable, secure, permissioned and commercial grade platform architecture powered by Ethereum Network,</div><div><br></div><div>\n</div><div>\n</div><div>Our current fully functional product is MITNet W2W Instant exchange which was launched on 26 Feb 2018, which allows almost immediate crypto-currency trading without holding your coins/token. Easy, safe and fair. Our target is USD 100 million trading volume perday, which only accounts for 0.5% of the global trading volume of USD 20 billion.</div><div><br></div><div>\n</div><div>\n</div><div>With the designated transaction fee of 0.5% per transaction, the estimated daily transaction revenue will be USD $ 500,000. Monthly transaction revenue will be USD 15 millon.\n</div><div>\n</div><div><br></div><div>MITNet Ecosystem management team &amp; developer has decided to adopt blockchian crowfunding mechanism, Initial Exchange Offering (IEO) to support and fund our future crypto projects which are highly rewarding financially, they are ICO Builder, Buy &amp; Sell Local Exchange, Decentralised Exchange and Cryto Racing Game App. \n</div><div>\n</div><div><br></div><div>To reward our early investors for participating in the IEO campaign, a fixed percentage of 15% will be set aside from MITNet's monthly revenue to be redistributed to funding campaign participants for life term. This will translate to approximately <b><i>3% monthly payout </i></b>to participant based on their initial contribution amount. As an example, an initial contribution of ETHER in the equivalent amount of USD 1,000 will entitle the contributor to receive USD 30 (3%) as transaction fee revenue sharing.&nbsp;</div><div><br></div><div>\n</div><div>\n</div><div>A total of 250 million MITNET (ERC20) tokens will be genreated during the IEO Event, of which 200 million token will be available for public investors and the developer team will hold 5 million token. Hard cap is set at USD 20 million. Any unsold token will be burnt at the completion of the IEO event. Common currency for IEO contribution will be ETHER only. Minimum investment is set as 0.1 ETHER.\n</div><div>\n</div><div><br></div><div>The MITNet IEO Event will be set at three stages, Early Bird, Pre-ICO and ICO. Official contribution event will start at 01 March 2018 and end at 31 May 2018.\n</div><div>\n</div><div><br></div><div>MITNET Token will be listed in minor &amp; major cryptocurrency exchanges. Including LiveCoin, Ku Coin, Poloneix, Binance, Bittex, HITBTC, CoinExchange, Gate IO &amp; others. The exact exchange listing schedule will be released after the completion of the IEO.</div><div><br></div><div>\n</div><div><b><i>Token Pricing</i></b></div><div>Estimated initial listing price will be <b><i>~ USD $0.12\n</i></b></div><div>We are aiming (not-a-promise) for long-term projectory price of at least USD <b><i>$26.00/token</i></b> when all our future profiting machineries are up and running (in 18 months after the completion of the IEO), correlated to the release of our future products and platform.\n</div><div>\n</div><div><br></div><div><b><i>Revenue sharing payout potential\n</i></b></div><div>Approximately 3% of the initial contribution amount, which will be sent in ETHER on the 28th of every month direct to the contributor's ethereum wallet address. (<i>Please note that the approximate 3%&nbsp;</i><span style=\"font-size: 1.07rem;\"><i>payouts do not guarentee future results. Our Exchange is revenue sharing with its contributors. If our volume for any month ie $0, the payout will be $0.</i>)</span></div><div>\n</div><div><br></div><div><b><i>Benefits of joining MITNet Initial Exchange Offering Event (IEO):\n</i></b></div><div><b>1)</b>&nbsp;We are expecting MITNET baseline price to rise to <b>USD 26 </b>from initial release price of <b>USD 0.12</b> in 18 months time\n</div><div><b>2)</b> Monthly revenue sharing payout of 3% for hodling the tokens\n</div><div>\n</div><div><br></div><div>\n</div><div>For more information regarding MITNet Ecosystem, please read through the content we have provided below.</div>",
+          "title": "BACKGROUND IMAGE",
+          "caption": "<p><b style=\"font-size: 1.07rem;\">GETModer:&nbsp;</b><span style=\"font-size: 1.07rem;\">An Institutional Grade Crypto Ecosystem</span></p><p><span style=\"font-size: 1.07rem;\"><b>Products:</b> Crypto Loan &amp; Instant Cryptocurrency Exchange</span></p><p><b>Mission</b>:<span style=\"font-size: 1.07rem;\">&nbsp;1)&nbsp;</span><span style=\"font-size: 1.07rem;\">Crypto Financing to Personal &amp; SMEs border-less, transparent and liquid as compared to traditional financing. 2) &nbsp;Cryptocurrency instant exchange at best rate and fast pace.</span></p><p><span style=\"font-size: 1.07rem;\"><b>Vision\n:&nbsp;</b></span><span style=\"font-size: 1.07rem;\">Our goal is to 1) create an Asia wide Business/Personal Loans Asset Platform. 2) To promote instant cryptocurrency exchange and aim at USD$100/day trading volume.</span></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content5",
-          "_anchor": "content5-29"
+          "_anchor": "content5-3e"
         },
         {
-          "_params": {
-            "showTitle": true,
-            "showSearch": false,
-            "rowСount": "6",
-            "colCount": "3",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg2-1920x659.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.4
-          },
-          "title": "<span style=\"font-weight: normal;\">3% Monthly Transaction Fee Profit Sharing Payout<br>(based on average daily trading volume of USD $100 million)</span>",
-          "search": "Search:",
-          "info1": "Showing",
-          "info2": "entries",
-          "info3": "(filtered from",
-          "info4": "total entries)",
-          "table": "<thead><tr><th><span style=\"font-weight: normal;\">Contribution <br>(ETHER)</span></th><th><span style=\"font-weight: normal;\">Monthly<br>(ETHER)</span></th><th><span style=\"font-weight: normal;\">Yearly<br>(ETHER)</span></th></tr></thead><tbody><tr><td>0.1</td><td>0.003</td><td>0.036</td></tr><tr><td>1</td><td>0.03</td><td>0.36</td></tr><tr><td>5</td><td>0.15</td><td>1.8</td></tr><tr><td>10</td><td>0.3</td><td>3.6</td></tr><tr><td>20</td><td>0.6</td><td>7.2</td></tr><tr><td>30</td><td>0.9</td><td>10.8</td></tr></tbody>",
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extTable1",
-          "_anchor": "extTable1-2c",
+          "_inherit": "msg-box8",
           "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
             ".mbr-section-title": {
+              "font-size": "23px",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "18px",
-              "color": "#ffffff"
+              "text-align": "left"
             },
-            "TH": {
-              "font-size": "17px",
-              "color": "#ffffff"
+            ".lead P": {
+              "text-align": "left"
             },
-            "TD": {
-              "font-size": "17px",
-              "color": "#ffffff"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "stripedBars": true,
-            "progress1": "100",
-            "progress2": "83",
-            "progress3": "50",
-            "progress4": "3",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-wrapper-4-1920x550.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            ".lead": {
+              "text-align": "left"
             },
-            "overlay": false,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.75
-          },
-          "title": "<span style=\"font-weight: normal;\">Products Functionality</span>",
-          "title1": "MITNet W2W Instant Exchange",
-          "title2": "MITNet ICO Builder",
-          "title3": "MITNet Buy &amp; Sell Local Exchange",
-          "title4": "MITNet Decentralised Exchange &amp; Crypto-Racing",
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extProgressBar1",
-          "_anchor": "extProgressBar1-28",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "25px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            },
-            ".progressbar-title p, .progressbar-number, .progressbar-number + span": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "17px"
-            },
-            ".mbr-section-title SPAN": {
-              "color": "#000000"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitles": false,
-            "tabs": "5",
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-wrapper-6-1920x400.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": 0.2
-          },
-          "title1": "BOOST YOUR RANKING",
-          "title2": "BOOTSTRAP BUILDER",
-          "title3": "TRENDY WEBSITE BLOCKS",
-          "title4": "Tab heading 4",
-          "title5": "Tab heading 5",
-          "title6": "Tab heading 6",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-2b\" aria-expanded=\"false\">W2W Exchange 100%</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-2b\" aria-expanded=\"true\">ICO Builder 83%</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-2b\" aria-expanded=\"false\">Local Exchange 50%</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-2b\" aria-expanded=\"false\">Decentralised Exchange 3%</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-2b\" aria-expanded=\"true\">Crypto Racing 3%</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-2b\">Beautiful</a></li>",
-          "text1": "Functonal platform. Please visit <a href=\"https://mitnet.exchange\" class=\"text-warning\"><b>www.mitnet.exchange</b></a>",
-          "text2": "83% completion. Platform will be available according to roadmap",
-          "text3": "50% completion. Platform will be&nbsp;will be available according to roadmap",
-          "text4": "3% Completion. Platform will be available for trial out in September 2018",
-          "text5": "3% Completion. Protocol will be availalble in September 2018",
-          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extTabs1",
-          "_anchor": "extTabs1-2b"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showSearch": false,
-            "rowСount": "4",
-            "colCount": "3",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg4-1400x710.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#2969b0",
-            "overlayOpacity": "0.5"
-          },
-          "title": "Token Offering Events",
-          "search": "Search:",
-          "info1": "Showing",
-          "info2": "",
-          "info3": "",
-          "info4": "",
-          "table": "<thead><tr><th>Stage</th><th>Offer (1 ETH)</th><th>Date</th></tr></thead><tbody><tr><td>Early Birds</td><td>10,000 token</td><td>01 March</td></tr><tr><td>Pre-ICO</td><td>9,000 token</td><td>01 April</td></tr><tr><td>ICO</td><td>8,500 token</td><td>01 May</td></tr><tr><td>Ending</td><td><br></td><td>31 May</td></tr></tbody>",
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extTable1",
-          "_anchor": "extTable1-23",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#ffffff",
-              "font-size": "22px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            },
-            "TH": {
-              "color": "#ffffff",
-              "font-size": "17px"
-            },
-            "TD": {
-              "color": "#ffffff",
-              "font-size": "17px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "tabs": "6",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/contact-1366x765.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#efefef",
-            "overlayOpacity": "0.3"
-          },
-          "title": "FAQ",
-          "title1": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseOneextToggle1-24\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>MITNet Exchange</a>",
-          "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseTwoextToggle1-24\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">MITNET Token</a>",
-          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseThreeextToggle1-24\" aria-expanded=\"true\" aria-controls=\"collapseThree\">Initial Exchange Offering</a>",
-          "title4": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseFourextToggle1-24\" aria-expanded=\"true\" aria-controls=\"collapseFour\">Funding from IEO</a>",
-          "title5": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseFiveextToggle1-24\" aria-expanded=\"true\" aria-controls=\"collapseFive\">Vision</a>",
-          "title6": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseSixextToggle1-24\" aria-expanded=\"true\" aria-controls=\"collapseSix\">Token Price</a>",
-          "text1": "MITNet W2W Exchange is a fully functional wallet to wallet crypto currency exchange platform.<br><br>MITNet's robot is integrated into the largest cryptocurrency trading platforms, including Poloniex and Bittrex. In the span of milliseconds, the robot makes bids and asks on the trading platforms, then selects and suggests the best available rate and displays the estimated rate on our site. The rates remain approximate until the transaction is actually made on the blockchain. The exchange rate at the time of a transaction may differ slightly from the estimated rate that you see when you begin a transaction.",
-          "text2": "The MITENET token is based on ERC 20 standard. It’s a utility token and will be an irreplaceable part of our MIT Ecosystem.<br><br>The MITENET token is central to our ecosystem. It’s the unit of value that allows us to create our ecosystem, it ultimately building more value for customers as adoption and utility grows.<br><br>\n<div>\n</div><div>MITENET token is the only unit of value used across our platform. Every purchase, sale, exchange or any other transaction on the platform will require the use of EXP24K tokens.\n</div><div>​\n</div><div>The number of MITENET tokens will be strictly limited. A finite amount of 250 million tokens will be issued, of which 200 million are available for the global investors.</div>",
-          "text3": "<p>MITNet initial exchange offering is based on our wallwt to wallet instant exchange platform.&nbsp;</p><p><br></p><p>The Early Bird stage is scheduled to run from March 01 till March 31 2018, while the ICO is planned from April 01 till May 31, 2018. To clarify the timing, please follow the chart above.</p>",
-          "text4": "1. To perfectualise current <b>MITNet Wallet 2 Wallet Exchange</b><br>2. To build <b>MITNet&nbsp;Buy &amp; Sell Local Exchange</b><br>3. To build <b>MITNet&nbsp;Decentralised Global Exchange</b><br>4. To build a decentralised game app, <b>Cryto-Racing</b><br>5. To build a decentralised <b>MITNet ICO Builder</b> for global startup<br><br>MITNet Ecosystem adopt revenue sharing policy. Participants in IEO will be entitled to 3% monthly revenue sharing generated from the above projects. For futher informations regarding the future projects, please refer to the roadmap below.",
-          "text5": "Our first milestone is the already running W2W Crypto Exchange Platform. Funding generated from the IEO will allow us to build next generation crypto projects aim for high investment returns which we will be employing revenue-sharing (about &nbsp;3% for life term) for the early participants in our MITNet IEO Project.",
-          "text6": "<p>MITNET Token will be listed in minor &amp; major cryptocurrency exchanges. Including LiveCoin, Ku Coin, Poloneix, Binance, Bittex, HITBTC, CoinExchange, Gate IO &amp; others. Coin listing schedule will be released after the completion of the IEO.</p><br><p>Estimated inital listing price will be ~ USD $0.12</p><br><p>We are aiming (not-a-promise) for long-term projectory price of at least USD $26.00/token when all our future profiting machineries are materiliased.</p><br><p>This releastic predicted price of USD $26 is based on:</p><p>a. Highly profitting future projects &amp; platform</p>b. Monthly revenue sharing (3%) from all projects<br>c. Token buy back &amp; burnt policy<br>d. Transparent financial auditing report",
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extToggle1",
-          "_anchor": "extToggle1-24",
-          "_styles": {
-            "P": {
-              "font-size": "17px"
-            },
-            "H1": {
-              "font-size": "25px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "paddingTop": "2",
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/contact-bg-1960x1000.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#3d3d3d",
-            "bgText": "Animated text background",
-            "bgTextStyle": "Montserrat",
-            "bgTextColor": "#5e5546",
-            "bgTextSize": "50",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": "0.3"
-          },
-          "title": "MITNet W2W Instant Exchange",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">GET FREE TRIAL</a>",
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extMsg-box4",
-          "_anchor": "extMsg-box4-1n",
-          "_styles": {
-            "SPAN": {
-              "font-size": "22px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            },
-            "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "18px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "text": "<p><span style=\"font-size: 1.07rem;\">MITNet is revolutionary part of the cryptocurrency ecosystem. It is how digital asset exchange should work. The platform gives you the power to quickly swap between assets – no account required.</span><br></p><p>\n</p><p>Let's assume you have Bitcoin and you want Ether. It goes like this:\n</p><p>\n</p><p><br></p><p>1. Select Bitcoin as the input and Ether as the output\n</p><p>2. Provide your Ether address from your Ether wallet in the top box (destination address) and your Bitcoin address (refund address). Click on \"I agree to Terms\", then click the Start Transaction Button.\n</p><p>3. MITNet will generate a bitcoin deposit address for you (this is the address you will send your bitcoin from your bitcoin wallet to). Please send your bitcoin to this generated address, being sure to not send an amount over the \"Deposit Max\" or under the \"Deposit Min\"\n</p><p><br></p><p>That's it. In a few moments, your Ether will be quickly sent to you.\n</p><p>\n</p><p><br></p><p>No emails or passwords. No lengthy sign­up process. No accounts. No bid and ask orders. No friction. And no sending your money to be held on a centralized exchange. MITNet's goal is to be the fastest, most private, and most convenient way to swap digital currencies, and the exchange rate will always remain competitive.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-7",
-          "_styles": {
-            "P": {
-              "font-size": "17px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showBgTitle": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": false,
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "columns": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/ex1-1439x720.png",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#3d8eb9",
-            "overlayOpacity": "0.7"
-          },
-          "title1": "Easy",
-          "subtitle1": "",
-          "caption1": "Choose the altcoins or blockchain tokens you would like to exchange, input your receiving address, &amp; send your funds. Fast crypto market exchanges, no fees, and a delightful process.",
-          "title2": "Safe",
-          "subtitle2": "",
-          "caption2": "Unlike other digital asset and bitcoin exchanges, you don’t need an account to use MITNet. This means your funds and information don’t suffer custodial risk.",
-          "title3": "Fair",
-          "subtitle3": "",
-          "caption3": "Other cryptocurrency trading services charge you with withdrawal fees and commissions. We have a reasonable fee of 0.5%.",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "background1": "1",
-          "background2": "2",
-          "background3": "3",
-          "background4": "4",
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extFeatures14",
-          "_anchor": "extFeatures14-6",
-          "_styles": {
-            "H3": {
-              "color": "#ede6c8"
-            },
-            "P": {
-              "font-size": "19px",
-              "color": "#ffffff"
-            },
-            "H4": {
-              "color": "#ffffff"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-on-feb-17th-at-12-26-pm-1400x441.png",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            ".lead DIV": {
+              "text-align": "left"
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-1b"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#41a85f"
-          },
-          "text": "<b>There are 1545 Coins listed in Market\n</b><div><b>Of which we have only listed 48 coins in MIT, the most potential coins for long term profit.</b></div>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-1q",
-          "_styles": {
-            "DIV": {
-              "color": "#ffffff"
-            }
-          }
-        },
-        {
           "_params": {
             "showTitle": false,
             "showText": true,
-            "showButtons": true,
-            "inverse": false,
+            "showButton": false,
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-wrapper-4-1920x550.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#f7da64",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": false,
-            "overlayColor": "#222",
+            "overlayColor": "#f3c649",
             "overlayOpacity": 0.5
           },
-          "title": "PRE MADE BLOCKS",
-          "text": "Direct access MITNet Instant Exchange",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mitnet.exchange\" data-toolbar=\"-mbrBtnMove\">MITNet Instant Exchange</a>",
+          "title": "<span style=\"font-weight: normal;\">GETModer Ecosystem consists of 2 crypto products</span>",
+          "text": "<p><b>GETModer Ecosystem</b></p><p>In its historical development, GETModer</p><p>has been identifying and successfully solving inefficiencies on lending markets by creating innovative and convenient financing solutions.\n</p><p>\n</p><p>By applying blockchain technology, GTMR Token is GETModer's answer to solving the lack of financing for the new digital economy.</p><p><b><br></b></p><p><b>GETModer Ecosystem comprises:</b></p><p>a) Cryto Loan</p><p>b) Instant Exchange</p><p><br></p><p>Utility Token: GETModer</p><p>Blockchain: Ethereum</p><p>Symbol: GTMR</p><p>Total: 251 million</p><p>Circulating: 150 million</p><p><br></p><p>\n</p><div>\n</div><div><b>a) Borderless Crypto Financing</b></div><div><span style=\"font-size: 1.07rem;\">The problem has been obvious for some time - spending crypto assets today prevents cryptocurrency holders from gaining on any future growth in asset value; holders who buy low need to hold on to their investments in order to benefit from selling high.</span></div><div><span style=\"font-size: 1.07rem;\">Decentralized and secure financial marketplace for peer to peer lending agreements using Blockchain and Smart Contracts.</span></div><div><b>For Borrower:</b> The GETModer platform allows you to borrow liquid funds instantly, based on the current value of your cryptocurrency asset holdings. You take out a loan, collateralized with more volatile assets such as Bitcoin or Ethereum - and in return you receive an agreed loan amount in a stable currency.&nbsp;<span style=\"font-size: 1.07rem;\">And after repaying the loan you receive your whole collateral back; even if the collateral has increased in value multiple times.&nbsp;</span><span style=\"font-size: 1.07rem;\">This way, you're able to acquire liquid funds for immediate needs, and save your crypto position, all at the same time. High lending ratio,&nbsp;</span></div><div><span style=\"font-size: 1.07rem;\"><b>For Lender: </b>Lending opportunity is opened to global market / anyone who wishes to be lender. \n</span><span style=\"font-size: 1.07rem;\">We guarantee full repayment and absence of risks because all loans are secured on crypto assets of the borrowers.</span></div><div><span style=\"font-size: 1.07rem;\"><b>Incentives:</b> Participants of our crypto-projects (<i>please refer to GETModer ITO below</i>) will entitle to special rate for both lending &amp; borrowing.</span></div><div><span style=\"font-size: 1.07rem;\"><b>Our Profits:</b> Processing fee from lending &amp; borrowing</span></div><div><span style=\"font-size: 1.07rem;\"><b>Target:</b> USD 5 million financing volume perday</span></div><div><b style=\"font-size: 1.07rem;\"></b></div><div><span style=\"font-size: 1.07rem;\"><b><br></b></span></div><div><br></div><div>\n</div><div>\n</div><div><b>b) Instant Cryptocurrency Exchange\n</b></div><div>Our instant wallet to wallet exchange allows you to trade cryptocurrency without registering at any exchange or needing verification. The parent service already has over 700,000 customers onboard and processes over 50,000 BTC monthly. Our platform is partnered with Jaxx, Coinmarketcap, Bittrex, Coinpayments, Uquid debit card, Coinomi, and other reputable companies.\n</div><div>The wide range of cryptocurrency trading pairs provided makes the platform particularly appealing. It creates an opportunity to exchange any two currencies with minimal fuss. Traditional cryptocurrency trading platforms generally have a limited selection of trading pairs, meaning that sometimes users have to make multiple transactions to receive their desired cryptocurrency. Fiat currency support will be added to our exchange, with the inclusion of credit and debit card purchases.</div><div><b>Incentives:</b> We will provide most proftable free trading signals according to indepth technical analysis of cryptocurrency trading. Hence encourage mass users to use our exchange platform because of the free signals.</div><div><b>Our profits:</b> Trading transaction fee\n</div><div><b>Target:</b> USD 100 million exchange volume perday. 60% of the revenue earned from this currency exchange will use to buy back GTMR tokens circulating in the markets to fund our Lending Platform.<span style=\"font-size: 1.07rem;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></div><p></p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-e",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#extTable1-23\" data-toolbar=\"-mbrBtnMove\">Initial Token Offering</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-3d"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><span style=\"font-style: normal;\">GETModer has adopted a high loan to coin ratio of 95%.</span></p><p><span style=\"font-style: normal;\">However a maximum C/L Ratio of 500% is possible under our special terms &amp; condition which is applicable to certain countries.</span></p><p><span style=\"font-style: normal;\">A full details of loan terms will be avaialble after the completion of GETModer Initial Token Offering</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">GETModer can now offer borrow on bitcoin, ether, ether classic, litecoin, ripple, bitcoin cash, zcash and other digital currencies in sizes from $100 upwards over fixed terms.</span></p></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-3q",
           "_styles": {
-            "H2": {
+            "BLOCKQUOTE": {
               "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "22px"
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           }
         },
@@ -979,7 +317,7 @@
           "media": {
             "image": {
               "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/ios-app-5-360x638.png",
+              "src": "@PROJECT_PATH@/assets/images/icon.home-.lg-949x826.png",
               "active": true,
               "link": "",
               "alt": "",
@@ -1050,23 +388,23 @@
               "family": "et-line"
             }
           },
-          "title": "FEATURES",
+          "title": "GETModer FEATURES",
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
-          "feature_title1": "Investment",
+          "feature_title1": "Personal Cryto Financing",
           "feature_subtitle1": "",
-          "feature_text1": "Revenue profit sharing rewards from the transaction fee",
-          "feature_title2": "Safe",
+          "feature_text1": "Crypto Financing to Personal &amp; SMEs border-less, transparent and liquid as compared to traditional financing.",
+          "feature_title2": "Cryptocurrency Instant Exchange",
           "feature_subtitle2": "",
-          "feature_text2": "Unlike other digital asset and bitcoin exchanges, you don’t need an account to use MITNet. This means your funds and information don’t suffer custodial risk..",
+          "feature_text2": "Exchange Integration. Our secured instant wallet to wallet exchange allows you to trade cryptocurrency without registering at any exchange or needing verification.",
           "feature_title3": "Translation ready",
           "feature_subtitle3": "Find a common language with anyone",
           "feature_text3": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
-          "feature_title4": "Easy",
+          "feature_title4": "Fast &amp; Easy",
           "feature_subtitle4": "",
-          "feature_text4": "Choose the altcoins or blockchain tokens you would like to exchange, input your receiving address, &amp; send your funds. Fast crypto market exchanges, no fees, and a delightful process.",
-          "feature_title5": "Future Projects",
+          "feature_text4": "Seamless processing at fast pace.",
+          "feature_title5": "Competitive Advantage",
           "feature_subtitle5": "",
-          "feature_text5": "Funding collector from the early investors will be utilised to build highly profitable crytp projects",
+          "feature_text5": "Our competitive advantage is encoded in our business know-how that we have developed in more than 10 years of experience - efficient business model, cutting-edge technology solutions and visionary management are the key drivers of our longstanding success",
           "feature_title6": "Awesome parallax",
           "feature_subtitle6": "Enjoy smooth bg sliding on scroll",
           "feature_text6": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
@@ -1076,6 +414,565 @@
           ],
           "_name": "extFeatures1",
           "_anchor": "extFeatures1-9"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/howitwork-1400x700.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-3r"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/contact-bg-1960x1000.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#3d3d3d",
+            "bgText": "Animated text background",
+            "bgTextStyle": "Montserrat",
+            "bgTextColor": "#5e5546",
+            "bgTextSize": "50",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.3"
+          },
+          "title": "<span style=\"font-weight: normal;\">Introducing<br>GETModer<br>Initial Token Offering<br>for early participant</span><br>",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">GET FREE TRIAL</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extMsg-box4",
+          "_anchor": "extMsg-box4-1n",
+          "_styles": {
+            "SPAN": {
+              "font-size": "24px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "18px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/corporate-grey-low-poly-geometric-motion-background-video-animation-hd-1920x1080-nypfik1eg-f0008-1920x1080.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "",
+          "text": "<span style=\"font-style: normal;\">GETModer Ecosystem has adopted blockchian technology to launching Initial Token Public Offering to early participants, to fund further development of our platform.</span><br><br><span style=\"font-style: normal;\">GETModer Contribution Address:<br><b>0x11111111111111111111111111</b></span>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#extTable1-k\" data-toolbar=\"-mbrBtnMove\">ITO Details</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-2y",
+          "_styles": {
+            "H2": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#000000",
+              "text-align": "left"
+            },
+            "H3": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "23px"
+            },
+            "SPAN": {
+              "font-size": "17px",
+              "color": "#1141f4"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#41a85f"
+          },
+          "text": "<p>​Always check the URL and verify the contribution address before sending ETH.</p><p><span style=\"font-size: 1.07rem;\">​​</span></p><div>We only accept ETH.</div><div>\n</div><div>Minimum contribution 1 ETH.</div><div><br></div><div>◎ Please use IMToken Wallet, TRUST Wallet or MyEtherWallet to receive your token</div><div>◎ Due to unforseenable transaction traffic, please allow 2-6 hours for the token to be delivered to you ERC20 Wallet</div><div><br></div><div>Make sure that you send Ether from wallet that supports ERC20 tokens or from an address for which you control the private key. Otherwise you will not be able interact with the MITNET tokens received. Do not send ETH directly from an exchange to the IEO/ICO address.</div><p></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2v",
+          "_styles": {
+            "DIV": {
+              "text-align": "left",
+              "color": "#ffffff"
+            },
+            "P": {
+              "text-align": "left",
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSearch": false,
+            "rowСount": "4",
+            "colCount": "3",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/picture13-1281x721.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2b0680",
+            "overlayOpacity": "0.5"
+          },
+          "title": "GETModer<br>Token Offering Events<br>2018",
+          "search": "Search:",
+          "info1": "Showing",
+          "info2": "",
+          "info3": "",
+          "info4": "",
+          "table": "<thead><tr><th>Stage</th><th>Offer (1 ETH)</th><th>Date</th></tr></thead><tbody><tr><td><b>Early Birds</b></td><td><b>12,000 token</b></td><td><b>15March</b></td></tr><tr><td>Pre-ITO</td><td>8,000 token</td><td>15 April</td></tr><tr><td>ITO</td><td>6,000 token</td><td>15 May</td></tr><tr><td>Ending</td><td><br></td><td>15 June</td></tr></tbody>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTable1",
+          "_anchor": "extTable1-23",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-size": "22px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "TH": {
+              "color": "#ffffff",
+              "font-size": "17px"
+            },
+            "TD": {
+              "color": "#ffffff",
+              "font-size": "17px"
+            },
+            "B": {
+              "color": "#f7da64",
+              "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<blockquote><p>Early Birds Event is a private sales offering before ITO is launched. Early contributors in Early Birds will get 12,000 GTMR token for each 1 ETH contribution. GETModer Early Birds provate sale event will start on 15 March 2018 and end on 15 Arpil.&nbsp;</p><p><br></p><p>GETModer's Early Birds private sale is uncapped. Any unsold token will be carried forward to Pre-ICO which will start on 16 April 2018</p></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-3o",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSearch": false,
+            "rowСount": "13",
+            "colCount": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/thrn06-compressor-2000x1125.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": "0.1"
+          },
+          "title": "GETModer Contribution Event",
+          "search": "Search:",
+          "info1": "Showing",
+          "info2": "entries",
+          "info3": "(filtered from",
+          "info4": "total entries)",
+          "table": "<thead><tr><th>Subject</th><th>Details</th></tr></thead><tbody><tr><td><b>Token</b></td><td><span style=\"font-size: 17px;\"><b>Getmoder</b></span></td></tr><tr><td><b>Symbol</b></td><td><span style=\"font-size: 17px;\"><b>GTMR</b></span></td></tr><tr><td><b>Network</b></td><td><b>Ethereum</b></td></tr><tr><td><b>Total Supply</b></td><td><b>251 M</b></td></tr><tr><td><b>Circulating</b></td><td><b>150 M</b></td></tr><tr><td><b>Starting</b></td><td><b>15 March 2018</b></td></tr><tr><td><b>Ending</b></td><td><b>15 June 2018</b></td></tr><tr><td><b>Minimum</b></td><td><b>1 ETH</b></td></tr><tr><td><b>Stage 1</b></td><td><b>Early Bird</b></td></tr><tr><td><b>Stage 2</b></td><td><b>Pre-ITO</b></td></tr><tr><td><b>Stage 3</b></td><td><b>ITO</b></td></tr><tr><td><span style=\"font-size: 17px;\"><b>Hard Cap</b></span></td><td><span style=\"font-size: 17px;\"><b>USD 12 Million</b></span></td></tr><tr><td><span style=\"font-size: 17px;\"><b>Bounty</b></span></td><td><b>1 M Token</b></td></tr></tbody>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTable1",
+          "_anchor": "extTable1-k",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "22px",
+              "color": "#ffffff"
+            },
+            "TH": {
+              "font-size": "17px"
+            },
+            "B": {
+              "font-size": "17px"
+            },
+            "TD": {
+              "font-size": "17px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "DIV": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "font-size": "21px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "17px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/contact-1366x765.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a8d4ec",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2969b0",
+            "overlayOpacity": "0.8"
+          },
+          "title": "GETModer Initial Token Offering (ITO)<br>Symbol: GTMR<br><br><span style=\"font-weight: normal;\">Powered by 15 years of &nbsp;expertise, GETModer is offering the world's best instant crypto loan, integrate with an Instant Cryptocurrency Exchange to propel its main core business.</span>",
+          "caption": "<div><span style=\"font-size: 1.07rem;\">GETModer is an institutional hybrid blockchain technology company focused on crypto-loan &amp; cryptocurrency exchange. We have developed a highly scalable, secure, permissioned and commercial grade platform architecture powered by Ethereum Network,</span></div><div>\n</div><div><br></div><div><span style=\"font-size: 1.07rem;\">GETModer Ecosystem management team &amp; developer has decided to adopt blockchian crowfunding mechanism, Initial Exchange Offering (IEO) to support and fund our future crypto projects .</span></div><div><span style=\"font-size: 1.07rem;\"><br></span></div><div><span style=\"font-size: 1.07rem;\">Initial Token Offering or ITO acts as entry point for investors to participate in our crypto projects.</span></div><div><br></div><div>\n</div><div>\n</div><div>A total of 251 million GTMR (ERC20) tokens will be genreated during the IEO Event, of which 150 million token will be available for public investors and the developer team will hold 101 million token. Hard cap is set at USD 20 million. Any unsold token will be burnt at the completion of the ITO event. Common currency for IEO contribution will be ETHER only. Minimum investment is set as 1 ETHER.\n</div><div>\n</div><div><br></div><div>The GETModer ITO Event will be set at three stages, Early Bird, Pre-ICO and ICO. Official contribution event will start at 15 March 2018 and end at 15 June 2018.\n</div><div>\n</div><div><br></div><div>GTMR Token will be listed in minor &amp; major cryptocurrency exchanges. Including LiveCoin, Ku Coin, Poloneix, Binance, Bittex, HITBTC, CoinExchange, Gate IO &amp; others. The exact exchange listing schedule will be released after the completion of the ITO.</div><div><br></div><div>\n</div><div><b><i>Token Pricing</i></b></div><div>Estimated initial listing price will be <b><i>~ USD $0.12\n</i></b></div><div>We are aiming (not-a-promise) for long-term projectory price of at least USD <b><i>$26.00/token</i></b> when all our future profiting machineries are up and running (in 18 months after the completion of the ITO), correlated to the release of our future products and platform.\n</div><div>\n</div><div><br></div><div><b><i>Token's Functions &amp; Benefits</i></b></div><div>GTMR token will be used as the main mean of payment currency for any uasage of platforms in the GETModer Ecosystem.</div><div>- as the main currency of our platform for financing purpose</div><div>- used as platform fee to process loan for both lenders and borrower</div><div>- can be used as collateral for crypto loan with special discount</div><div>- unlocking the value of \n<span style=\"font-size: 1.07rem;\">your digital assets, retain asset&nbsp;</span><span style=\"font-size: 1.07rem;\">upside potential</span></div><div><span style=\"font-size: 1.07rem;\">- increasing global demand of GTMR tokens for its utility purposes, coupled with fixed limited supply, may stimulate price movement and hence steady growth in the future value.</span></div><div>\n</div><div>\n</div><div><span style=\"font-size: 1.07rem;\"><b><i><br></i></b></span></div><div><span style=\"font-size: 1.07rem;\"><b><i>What is an ITO?</i></b>&nbsp;</span></div><div>\n</div><div>ITO stands for Initial Token Offering for public Usually, before the new cryptocurrency emerges, the individual or company will need to raise money for all the technical development or future platforms/products that is needed. So, they usually sell tokens in exchange for more established cryptocurrencies.</div><div><br></div><div>GTMR token demand is driven by the growth of the users community and usage of the token on the platforms.</div><div>\n</div><div><br></div><div>\n</div><div>For more information regarding GETModer ITO, please read through the content we have provided below.</div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-29"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Below is a demonstration platform with limited functionality. </p><p><br></p><p>In the final production release the UI, design, and functionality will differ significantly.</p><p>In the production version, all counteroffers will be automatically matched by the system. For testing purposes, only manual approval from the lender is available now.\n</p><p><br></p><p>When you use GTMR as collateral for the loan, we have set $0.12 as an exchange rate for the current moment. However after listing on exchanges, this rate will be calculated as the market average..</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3m"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "\n    <iframe id=\"JotFormIFrame-80658564967475\" onload=\"window.parent.scrollTo(0,0)\" allowtransparency=\"true\" allowfullscreen=\"true\" src=\"https://form.jotform.me/80658564967475\" frameborder=\"0\" style=\"width: 1px;\n      min-width: 100%;\n      height:539px;\n      border:none;\" scrolling=\"no\">\n    </iframe>\n    {JS_CODE_0}",
+          "_customCSS": "",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-3g",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script type=\"text/javascript\">\n      var ifr = document.getElementById(\"JotFormIFrame-80658564967475\");\n      if(window.location.href && window.location.href.indexOf(\"?\") > -1) {\n        var get = window.location.href.substr(window.location.href.indexOf(\"?\") + 1);\n        if(ifr && get.length > 0) {\n          var src = ifr.src;\n          src = src.indexOf(\"?\") > -1 ? src + \"&\" + get : src  + \"?\" + get;\n          ifr.src = src;\n        }\n      }\n      window.handleIFrameMessage = function(e) {\n        var args = e.data.split(\":\");\n        if (args.length > 2) { iframe = document.getElementById(\"JotFormIFrame-\" + args[(args.length - 1)]); } else { iframe = document.getElementById(\"JotFormIFrame\"); }\n        if (!iframe) { return; }\n        switch (args[0]) {\n          case \"scrollIntoView\":\n            iframe.scrollIntoView();\n            break;\n          case \"setHeight\":\n            iframe.style.height = args[1] + \"px\";\n            break;\n          case \"collapseErrorPage\":\n            if (iframe.clientHeight > window.innerHeight) {\n              iframe.style.height = window.innerHeight + \"px\";\n            }\n            break;\n          case \"reloadPage\":\n            window.location.reload();\n            break;\n          case \"loadScript\":\n            var src = args[1];\n            if (args.length > 3) {\n                src = args[1] + ':' + args[2];\n            }\n            var script = document.createElement('script');\n            script.src = src;\n            script.type = 'text/javascript';\n            document.body.appendChild(script);\n            break;\n          case \"exitFullscreen\":\n            if      (window.document.exitFullscreen)        window.document.exitFullscreen();\n            else if (window.document.mozCancelFullScreen)   window.document.mozCancelFullScreen();\n            else if (window.document.mozCancelFullscreen)   window.document.mozCancelFullScreen();\n            else if (window.document.webkitExitFullscreen)  window.document.webkitExitFullscreen();\n            else if (window.document.msExitFullscreen)      window.document.msExitFullscreen();\n            break;\n        }\n        var isJotForm = (e.origin.indexOf(\"jotform\") > -1) ? true : false;\n        if(isJotForm && \"contentWindow\" in iframe && \"postMessage\" in iframe.contentWindow) {\n          var urls = {\"docurl\":encodeURIComponent(document.URL),\"referrer\":encodeURIComponent(document.referrer)};\n          iframe.contentWindow.postMessage(JSON.stringify({\"type\":\"urls\",\"value\":urls}), \"*\");\n        }\n      };\n      if (window.addEventListener) {\n        window.addEventListener(\"message\", handleIFrameMessage, false);\n      } else if (window.attachEvent) {\n        window.attachEvent(\"onmessage\", handleIFrameMessage);\n      }\n      </script>"
+          ]
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "\n    <iframe id=\"JotFormIFrame-80660901167455\" onload=\"window.parent.scrollTo(0,0)\" allowtransparency=\"true\" allowfullscreen=\"true\" src=\"https://form.jotform.me/80660901167455\" frameborder=\"0\" style=\"width: 1px;\n      min-width: 100%;\n      height:539px;\n      border:none;\" scrolling=\"no\">\n    </iframe>\n    {JS_CODE_0}",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-3i",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script type=\"text/javascript\">\n      var ifr = document.getElementById(\"JotFormIFrame-80660901167455\");\n      if(window.location.href && window.location.href.indexOf(\"?\") > -1) {\n        var get = window.location.href.substr(window.location.href.indexOf(\"?\") + 1);\n        if(ifr && get.length > 0) {\n          var src = ifr.src;\n          src = src.indexOf(\"?\") > -1 ? src + \"&\" + get : src  + \"?\" + get;\n          ifr.src = src;\n        }\n      }\n      window.handleIFrameMessage = function(e) {\n        var args = e.data.split(\":\");\n        if (args.length > 2) { iframe = document.getElementById(\"JotFormIFrame-\" + args[(args.length - 1)]); } else { iframe = document.getElementById(\"JotFormIFrame\"); }\n        if (!iframe) { return; }\n        switch (args[0]) {\n          case \"scrollIntoView\":\n            iframe.scrollIntoView();\n            break;\n          case \"setHeight\":\n            iframe.style.height = args[1] + \"px\";\n            break;\n          case \"collapseErrorPage\":\n            if (iframe.clientHeight > window.innerHeight) {\n              iframe.style.height = window.innerHeight + \"px\";\n            }\n            break;\n          case \"reloadPage\":\n            window.location.reload();\n            break;\n          case \"loadScript\":\n            var src = args[1];\n            if (args.length > 3) {\n                src = args[1] + ':' + args[2];\n            }\n            var script = document.createElement('script');\n            script.src = src;\n            script.type = 'text/javascript';\n            document.body.appendChild(script);\n            break;\n          case \"exitFullscreen\":\n            if      (window.document.exitFullscreen)        window.document.exitFullscreen();\n            else if (window.document.mozCancelFullScreen)   window.document.mozCancelFullScreen();\n            else if (window.document.mozCancelFullscreen)   window.document.mozCancelFullScreen();\n            else if (window.document.webkitExitFullscreen)  window.document.webkitExitFullscreen();\n            else if (window.document.msExitFullscreen)      window.document.msExitFullscreen();\n            break;\n        }\n        var isJotForm = (e.origin.indexOf(\"jotform\") > -1) ? true : false;\n        if(isJotForm && \"contentWindow\" in iframe && \"postMessage\" in iframe.contentWindow) {\n          var urls = {\"docurl\":encodeURIComponent(document.URL),\"referrer\":encodeURIComponent(document.referrer)};\n          iframe.contentWindow.postMessage(JSON.stringify({\"type\":\"urls\",\"value\":urls}), \"*\");\n        }\n      };\n      if (window.addEventListener) {\n        window.addEventListener(\"message\", handleIFrameMessage, false);\n      } else if (window.attachEvent) {\n        window.attachEvent(\"onmessage\", handleIFrameMessage);\n      }\n      </script>"
+          ]
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "\n    <iframe id=\"JotFormIFrame-80662742067459\" onload=\"window.parent.scrollTo(0,0)\" allowtransparency=\"true\" allowfullscreen=\"true\" src=\"https://form.jotform.me/80662742067459\" frameborder=\"0\" style=\"width: 1px;\n      min-width: 100%;\n      height:539px;\n      border:none;\" scrolling=\"no\">\n    </iframe>\n    {JS_CODE_0}",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-3n",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script type=\"text/javascript\">\n      var ifr = document.getElementById(\"JotFormIFrame-80662742067459\");\n      if(window.location.href && window.location.href.indexOf(\"?\") > -1) {\n        var get = window.location.href.substr(window.location.href.indexOf(\"?\") + 1);\n        if(ifr && get.length > 0) {\n          var src = ifr.src;\n          src = src.indexOf(\"?\") > -1 ? src + \"&\" + get : src  + \"?\" + get;\n          ifr.src = src;\n        }\n      }\n      window.handleIFrameMessage = function(e) {\n        var args = e.data.split(\":\");\n        if (args.length > 2) { iframe = document.getElementById(\"JotFormIFrame-\" + args[(args.length - 1)]); } else { iframe = document.getElementById(\"JotFormIFrame\"); }\n        if (!iframe) { return; }\n        switch (args[0]) {\n          case \"scrollIntoView\":\n            iframe.scrollIntoView();\n            break;\n          case \"setHeight\":\n            iframe.style.height = args[1] + \"px\";\n            break;\n          case \"collapseErrorPage\":\n            if (iframe.clientHeight > window.innerHeight) {\n              iframe.style.height = window.innerHeight + \"px\";\n            }\n            break;\n          case \"reloadPage\":\n            window.location.reload();\n            break;\n          case \"loadScript\":\n            var src = args[1];\n            if (args.length > 3) {\n                src = args[1] + ':' + args[2];\n            }\n            var script = document.createElement('script');\n            script.src = src;\n            script.type = 'text/javascript';\n            document.body.appendChild(script);\n            break;\n          case \"exitFullscreen\":\n            if      (window.document.exitFullscreen)        window.document.exitFullscreen();\n            else if (window.document.mozCancelFullScreen)   window.document.mozCancelFullScreen();\n            else if (window.document.mozCancelFullscreen)   window.document.mozCancelFullScreen();\n            else if (window.document.webkitExitFullscreen)  window.document.webkitExitFullscreen();\n            else if (window.document.msExitFullscreen)      window.document.msExitFullscreen();\n            break;\n        }\n        var isJotForm = (e.origin.indexOf(\"jotform\") > -1) ? true : false;\n        if(isJotForm && \"contentWindow\" in iframe && \"postMessage\" in iframe.contentWindow) {\n          var urls = {\"docurl\":encodeURIComponent(document.URL),\"referrer\":encodeURIComponent(document.referrer)};\n          iframe.contentWindow.postMessage(JSON.stringify({\"type\":\"urls\",\"value\":urls}), \"*\");\n        }\n      };\n      if (window.addEventListener) {\n        window.addEventListener(\"message\", handleIFrameMessage, false);\n      } else if (window.attachEvent) {\n        window.attachEvent(\"onmessage\", handleIFrameMessage);\n      }\n      </script>"
+          ]
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f7da64",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "PRE MADE BLOCKS",
+          "text": "Direct access GETModer Instant Exchange",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mitnet.exchange\" data-toolbar=\"-mbrBtnMove\">GETModer Instant Exchange</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-e",
+          "_styles": {
+            "H2": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "22px",
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "iconsBgColor": "#1141f4",
+            "paddingTop": 3,
+            "paddingBottom": 2,
+            "columns": 3,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures5_bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.6
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "layers",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "expand",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "pencil",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "compass",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "title1": "Benefits for ITO Contributors",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "1. Contribution into a unique and prospective project with a transparent business model.<br>2. Advantageous lending terms and conditions for contributors.<br>3. You can get a loan secured on GTMR tokens with lower fees.<br>4. Entitle to Early Bird Bonus. 1 ETH = 12,000 GTMR token<br><br><br>",
+          "title2": "Benefits for Lenders",
+          "subtitle2": "One of Bootstrap 4s big points",
+          "caption2": "1. Automatic Funds Management\n<br>Formulate the terms and conditions of the loans, and the system will automatically estimate the market environment to create orders. After repayment of loans, the system will continue creating orders.<br>2. Minimal Risks\n<br>Full Repayment of funds for the loans that were given including the interest without delays.<br>3. No Limits\n<br>The minimum loan amount is 100 USD, and the maximum amount and number of active loans is limited only by your budget.<br>4. No Obstacles\n<br>Any individual or legal entity can become a lender without any licenses.<br>5. Flexible Setting of Loans Terms and Conditions\n<br>Possibility to individually specify optimal terms and conditions for giving loans.<br>6. Worldwide Coverage\n<br>International audience of borrowers removes borders in granting loans.<br>7. Reliability and Safety\n<br>Fully legal status and protected infrastructure will ensure the security of funds.<br><br>Lending opportunity is opened to global market / anyone who wishes to be lender. We guarantee full repayment and absence of risks because all loans are secured on crypto assets of the borrowers.\nIn case of non-repayment of the loan, the pledged crypto asset will be automatically liquidated (sold) by the system and the funds including the interest rate will be fully repaid to the lender.\n<br>\n<br><b>Earning: APR 12%. \n<br></b>Lenders only deposit 88% of the lending fund to us. \n<br>When lending contract is matured, 100% of the lending fund will be transferred to the lender.\n<br><br>",
+          "title3": "Benefits for Borrowers",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "1. Preserving Cryptoassets\n<br>Now there is no need to sell cryptoassets if you need fiat money.<br>2. Flexible Lending Terms and Conditions\n<br>Individual estimation of risks and selection of lending terms and conditions allow getting a loan under optimum terms and conditions.<br>3. Refinancing of Obligations\n<br>Possibility to refinance obligations allows to easily prolong the loan term.<br>4. No Credit Checks\n<br>There is no need to check out the credit history and prove your payment capacity.<br>5. Individual Loan Management\n<br>It is possible to close the loan at any time by liquidating (selling) a part of the loan at the current market price.<br>6. &nbsp;Supporting Popular Cryptoassets\n<br>It is possible to use such popular cryptoassets as Bitcoin, Ethereum, etc. as the loan collateral.<br><br>Hold your assets, get your cash. Lets you leverage your blockchain assets to secure cash loans. Make it easy to get money without having to sell customer favorite investment by streamlines every step of the loan. Simplified the application process by focusing on the value of the borrower’s blockchain assets instead of their credit score. Keeps collateral assets safe and locked in a fully-audited, ultra-secure architecture during the life of the loan so members can borrow with confidence.&nbsp;<br><br><b>How does Loan works?\n</b><br>1. Loan Creation - A borrower sends collateral to the Lender collateral wallet and funds/tokens are transferred to the borrower’s wallet account. Collateral remains the property of the borrower and any price appreciation or depreciation belongs to the borrower.\n<br>2. Loan Repayment - A borrower makes timely, periodic payments to the lender.\n<br>3. Loan Completion - Upon repayment of the loan, the borrower’s collateral is returned.\n<br><br>The platform will not provide a pre-set interest rate. It will be fully market-dependent. The lender will set the interest rate in his/her loan application, and the borrower will state the desired interest rate for getting a loan. The system will automatically bring the matching applications together.<br><br><b>Missed payment<br></b>If a borrower misses a payment, SLBN will liquidate a portion of the total collateral to cover both the missed payment and any associated fees. If a borrower continues to miss payments, the collateral will continue to be liquidated to cover monthly payments of principal, interest and fees until the loan-to-value ratio exceeds a predetermined threshold. Once the default reaches the triggering threshold described above, a balance of the collateral is liquidated to cover the missed payment and to calibrate the overcollateralization. This process continues until the loan is fully retired or matures. Lenders may elect to receive their funds in either the currency of the original loan or the equivalent value in blockchain assets. After the principal of the loan and accrued fees are paid out of the collateral, any remaining assets are returned to the borrower.<br><br>",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures5",
+          "_anchor": "extFeatures5-3c",
+          "_styles": {
+            ".mbr-iconfont-features4": {
+              "color": "#1141f4 !important"
+            },
+            ".wraper": {
+              "border-color": "#1141f4 !important"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "tabs": "6",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/contact-1366x765.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#efefef",
+            "overlayOpacity": "0.3"
+          },
+          "title": "FAQ",
+          "title1": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseOneextToggle1-24\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>What is GTMR</a>",
+          "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseTwoextToggle1-24\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">Funding Goal of GTMR ITO?</a>",
+          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseThreeextToggle1-24\" aria-expanded=\"true\" aria-controls=\"collapseThree\">How many token will be for sale?</a>",
+          "title4": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseFourextToggle1-24\" aria-expanded=\"true\" aria-controls=\"collapseFour\">Will there be Follow-Up sale?</a>",
+          "title5": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseFiveextToggle1-24\" aria-expanded=\"true\" aria-controls=\"collapseFive\">Usage of raised fund?</a>",
+          "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseSixextToggle1-24\" aria-expanded=\"false\" aria-controls=\"collapseSix\">Token Price</a>",
+          "text1": "GTMR is an ERC-20 compatible token that is sold for token sale participants. GETModer aims to attract future users of the decentralized application by selling GTMR tokens that will provide 25% discount on deployment fees on GETModer, when paying with GTMR. \n<div>GETModer wants to deliver a strong token to the market by introducing airdrops for rewarding lenders and borrowers. GETModer uses part of the fees on GETModer to purchase GTMR from exchange and distribute the purchased GTMR to lenders and borrowers. The aim is to increase user adoption and provide more value for the product and for the whole GETModer project by acquiring an active user-base.</div><br>Interest Rate: Our platform does not provide predetermined interest rates, they are fully market-dependant and are set by lenders and borrowers.<div> \n</div>",
+          "text2": "13,500 ETHER or USD 12 million",
+          "text3": "<p><span style=\"font-size: 1rem;\">Total supply is 251 million token.</span></p><p><span style=\"font-size: 1rem;\">1 million for bounty program.</span></p><p><span style=\"font-size: 1rem;\">Developer will hold 100 million token</span><br></p><p>150 million GTMR token will be available for public sale, dstributed in 3 stages.&nbsp;</p><p>Early Birds ; &nbsp;Pre-ITO ; ITO</p>",
+          "text4": "No. There will be no further GTMR available for sale after the Token Sale.",
+          "text5": "ETH will be used to further develop the technology behind GETModer platform and future projects. \n<div>\n</div><div>Below the funds allocation is provided:\n</div><div>30% on core development\n</div><div>20% on user experience development\n</div><div>20% on management of GETModer&nbsp;<span style=\"font-size: 1rem;\">20% on promotions</span></div><div>10% on unexpected costs\n</div><div><br></div>",
+          "text6": "<p>GTMR Token will be listed in minor &amp; major cryptocurrency exchanges. Including LiveCoin, Ku Coin, Poloneix, Binance, Bittex, HITBTC, CoinExchange, Gate IO &amp; others. Coin listing schedule will be released after the completion of the IEO.</p><br><p>Estimated inital listing price will be ~ USD $0.12</p><br><p>We are aiming (not-a-promise) for long-term projectory price of at least USD $26.00/token.</p><br><p>This releastic predicted price of USD $26 is based on:</p><p>a. Highly profitting future projects &amp; platform</p>c. Real Projects<br>d. Functioanl Cryptocurrency Exchange",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extToggle1",
+          "_anchor": "extToggle1-24",
+          "_styles": {
+            "P": {
+              "font-size": "17px"
+            },
+            "H1": {
+              "font-size": "25px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          }
         },
         {
           "_params": {
@@ -1101,23 +998,23 @@
           },
           "mainTitle": "Roadmap",
           "bottomTitle": "<span style=\"font-weight: normal;\"><i>Roadmap may subject to changes without any advance notice</i></span><br><br>",
-          "mainSubtitle": "MITNet Initial Exchange Offering",
-          "title1": "<span style=\"font-weight: normal;\">- Early Bird Offering Started</span><br><span style=\"font-weight: normal;\">- Display ICO Builder</span><br><span style=\"font-weight: normal;\">- Dislpay MITNet Local Exchange</span><br>",
-          "title2": "<span style=\"font-weight: normal;\">- Pre-ICO Started</span><br><span style=\"font-weight: normal;\">- Upgrade MITNet W2W server</span><br><span style=\"font-weight: normal;\">- Testing ICO Builder</span><br><span style=\"font-weight: normal;\">- Testing MITNet Local Exchange</span><br><span style=\"font-weight: normal;\">- Release Whitepaper</span><br><span style=\"font-weight: normal;\">- Release full team profile</span>",
-          "title3": "<span style=\"font-weight: normal;\">- ICO Started</span><br><span style=\"font-weight: normal;\">- Preparing for token sales auditing</span>",
-          "title4": "<span style=\"font-weight: normal;\">- MITNet IEO completed</span><br><span style=\"font-weight: normal;\">- Token Sales Auditing</span><br>",
-          "title5": "<span style=\"font-weight: normal;\">- First revenue sharing payout to participants</span><span style=\"font-weight: normal;\"><br></span>",
-          "title6": "<span style=\"font-weight: normal;\">- Launching ICO Builder for global startup&nbsp;</span><br><span style=\"font-weight: normal;\">- Second revenue sharing payout to participants</span><br><span style=\"font-weight: normal;\">- Release token sales report</span><br>",
-          "title7": "<span style=\"font-weight: normal;\">- MITNet Local Exchange first run. Limited to 500 registration worldwide.&nbsp;</span><br><span style=\"font-weight: normal;\">- Local Exchange marketing globally</span><br><span style=\"font-weight: normal;\">- Third revenue sharing payout to participants and will be continued on the 28th of following months for life term</span>",
-          "title8": "<span style=\"font-weight: normal;\">&nbsp;- Installation of around-the-clock phone support system an established user voting system to provide users an exceptional trading experience</span><br><span style=\"font-weight: normal;\">- Revise Local Exchange Functionality</span><br><span style=\"font-weight: normal;\">- Token listed in minor crypto currency exchanges</span><br><span style=\"font-weight: normal;\">- Exchange server ungrade</span><br><span style=\"font-weight: normal;\">- Server Security upgrade</span><br><span style=\"font-weight: normal;\">- Set up operational office in Singapore, Norway and Ireland</span>",
-          "title9": "<span style=\"font-weight: normal;\">- Fully functional MITNet Local Exchange</span><br><span style=\"font-weight: normal;\">- Developing Crypto-Racing game app</span><br><span style=\"font-weight: normal;\">- Developing MITNet Decentralised Exchange</span><br><span style=\"font-weight: normal;\">- Token listed in medium exchanges</span>",
-          "title10": "<span style=\"font-weight: normal;\">- Token listed in major exchanges</span><br><span style=\"font-weight: normal;\">- Retest platform server security</span><br><span style=\"font-weight: normal;\">- Set up office in Dehli India</span>",
-          "title11": "<span style=\"font-weight: normal;\">- Office re-opens</span><br><span style=\"font-weight: normal;\">- Crypto-Racing &amp; Decentralised Exchange will be launching during end of Q1 2019</span><br><span style=\"font-weight: normal;\">- Update Roadmap for coming year 2019</span>",
+          "mainSubtitle": "GETModer Initial Token Offering",
+          "title1": "<span style=\"font-weight: normal;\">- Early Bird Offering Started</span><br>",
+          "title2": "<span style=\"font-weight: normal;\">- Pre-ICO Started</span><br><span style=\"font-weight: normal;\">- Upgrade GETModer W2W server</span><br><span style=\"font-weight: normal;\">- Release Whitepaper</span><br><span style=\"font-weight: normal;\">- Release full team profile</span>",
+          "title3": "<span style=\"font-weight: normal;\">- ICO Started</span><br>",
+          "title4": "<span style=\"font-weight: normal;\">- ITO &nbsp;completed</span><br><span style=\"font-weight: normal;\">- Token Sales Auditing</span><br>",
+          "title5": "<span style=\"font-weight: normal;\">-Expanding the team. Developing the company's legal structure. Submitting the documents to obtain necessary licenses.</span>",
+          "title6": "<span style=\"font-weight: normal;\">- Release token sales report</span><br>",
+          "title7": "<span style=\"font-weight: normal;\">-Obtaining the payment licenses. Completion of developing the platform core. The official launch of the platform.</span>",
+          "title8": "<span style=\"font-weight: normal;\">&nbsp;- Installation of around-the-clock phone support system an established user voting system to provide users an exceptional trading experience</span><br><span style=\"font-weight: normal;\">- Revise Exchange Functionality</span><br><span style=\"font-weight: normal;\">- Token listed in minor crypto currency exchanges</span><br><span style=\"font-weight: normal;\">- Exchange server ungrade</span><br><span style=\"font-weight: normal;\">- Server Security upgrade</span><br><span style=\"font-weight: normal;\">- Set up operational office in Singapore</span>",
+          "title9": "<span style=\"font-weight: normal;\">- Developing mobile applications for iOS &amp; Android.</span><br><span style=\"font-weight: normal;\">- Token listed in medium exchanges</span>",
+          "title10": "<span style=\"font-weight: normal;\">-Licensing and entering the Asian market.</span>",
+          "title11": "<span style=\"font-weight: normal;\">- Office re-opens</span><br><span style=\"font-weight: normal;\">- Update Roadmap</span><br><span style=\"font-weight: normal;\">- Apply GTMR token to be listed in major exchanges</span>",
           "title12": "12. Awesome Reports",
-          "date1": "<b>01 March 2018</b>",
-          "date2": "<b>01 April 2018</b>",
-          "date3": "<b>01 May 2018</b>",
-          "date4": "<b>31 May 2018</b>",
+          "date1": "<b>15 March 2018</b>",
+          "date2": "<b>16 April 2018</b>",
+          "date3": "<b>16 May 2018</b>",
+          "date4": "<b>16 June 2018</b>",
           "date5": "<b>28 June 2018</b>",
           "date6": "<b>28 July 2018</b>",
           "date7": "<b>28 August 2018</b>",
@@ -1334,10 +1231,10 @@
             "overlayOpacity": 0.75
           },
           "title": "Funding Distribution (100%)",
-          "title1": "Products Development",
-          "title2": "Server Construction &amp; Security",
-          "title3": "Human Resources",
-          "title4": "Marketing",
+          "title1": "Core Upgrade &amp; Development",
+          "title2": "User Experience Devlopment &amp; Customer Services",
+          "title3": "Human Resources &amp; Managment of GETModer",
+          "title4": "Marketing&nbsp;",
           "media": {
             "image": {
               "active": true,
@@ -1385,7 +1282,7 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/head-bacground-1965x734.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/bg4-1400x710.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#c0a375",
@@ -1403,11 +1300,11 @@
           "title4": "Social Network",
           "title5": "Tab heading 5",
           "title6": "Tab heading 6",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-m\" aria-expanded=\"false\">Whitepaper</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-m\" aria-expanded=\"false\">Team</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-m\" aria-expanded=\"true\">Github</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-m\" aria-expanded=\"true\">Social</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-m\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-m\">Beautiful</a></li>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-m\" aria-expanded=\"false\">Whitepaper</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-m\" aria-expanded=\"false\">Team</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-m\" aria-expanded=\"true\">Github</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-m\" aria-expanded=\"false\">Social</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-m\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-m\">Beautiful</a></li>",
           "text1": "Still in developemenntal stage and will be available after 25% completion of the MITNET token sales",
-          "text2": "(Full team profile will be published in this site after 25% completion of the MITNET token sales.)<br><br><b>Allan Smith – CEO, Founder and Lead Developer</b>\n<br>Former site developer and security analyst for a data center and cyber security company that was\n<br>based out of Texas. Expertise in website and software development, along with information security.\n<br>Blockchain researcher and analyst.\n<br><br><b>Elizabeth Canley– COO, Co-Founder and Marketing Director\n</b><br>Elias has worked a government job that specializes in cyber security, as well as software and web\n<br>development. He developed an interest in cryptocurrency trading 2012, and as a trader himself, he\n<br>keeps the users in mind and will do anything possible to better MIT Ecosystem.<br>\n<br><b>Joseph Langley– CFO, Co-Founder and Business Analyst</b>\n<br>Financial analyst based out of San Diego. Focused on jumpstarting the cryptocurrency revolution\n<br>that is beginning to take hold in our current financial systems. Expertise in financial modeling.<br><br><b>Kelvin Brown– Lead of Technical Operations\n</b><br>IT Analyst based in Dublin, Ireland. Experience in server administration, information security, and\n<br>setting up servers with security in mind.<br>",
+          "text2": "*(Full team profile will be published in this site after 25% completion of the MITNET token sales.)<br><br><b>Arthur Smith – CEO, Founder and Lead Developer</b>\n<br>Former site developer and security analyst for a data center and cyber security company that was\n<br>based out of Texas. Expertise in website and software development, along with information security.\n<br>Blockchain researcher and analyst.\n<br><br><b>Buck Wisely– COO, Co-Founder and Marketing Director\n</b><br>Elias has worked a government job that specializes in cyber security, as well as software and web\n<br>development. He developed an interest in cryptocurrency trading 2012, and as a trader himself, he\n<br>keeps the users in mind and will do anything possible to better MIT Ecosystem.<br>\n<br><b>Nonyang Ngam– CFO, Co-Founder and Business Analyst</b>\n<br>Financial analyst based out of San Diego. Focused on jumpstarting the cryptocurrency revolution\n<br>that is beginning to take hold in our current financial systems. Expertise in financial modeling.<br><br><b>Steve Howsley– Lead of Technical Operations\n</b><br>IT Analyst based in Dublin, Ireland. Experience in server administration, information security, and\n<br>setting up servers with security in mind.<br>",
           "text3": "To be published soon",
-          "text4": "Our markekting team will start to promote MITNet IEO project at various socal network after the completion of Early Birds Privarte Sales Event. At the meantime if you are interested to join the Early Birds Event, <a href=\"page3.html\">please contact us</a>.",
+          "text4": "Our markekting team will start to promote GETModer project at various socal network after the completion of Early Birds Privarte Sales Event. At the meantime if you are interested to join the Early Birds Event, <a href=\"page3.html\">please contact us</a>.",
           "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
           "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
           "alias": "mobirise3-blocks/components",
@@ -1439,7 +1336,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"page1.html\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>MITNet Exchange. 22B Moorefield Rd,\n<br>Wellington 6037,\n<br>New Zealand<br>Email: <a href=\"mailto:admin@mitnet.exchange\">admin@mitnet.exchange</a><br>Copyright (c) 2018 MIT Exchange&nbsp;All rights reserved",
+          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"index.html#extToggle1-24\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>GETMOder. Level 11, 157 Lambton Quay<br>Wellington 6011<br>New Zealand<br>Email: <a href=\"mailto:admin@getmoder.io\">admin@getmoder.io</a><br>Copyright (c) 2018 GETModer Foundation. All rights reserved",
           "_tags": [
             "Theme"
           ],
@@ -1463,13 +1360,13 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "bgColor": "#0a8c30",
+            "bgColor": "#2969b0",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1534,7 +1431,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mitfavicon-176x107.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-200x200.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1547,7 +1444,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MITNet Exchange</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GETModer</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-r"
         },
@@ -1564,7 +1461,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"page1.html\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>MITNet Exchange. 22B Moorefield Rd,\n<br>Wellington 6037,\n<br>New Zealand<br>Email: <a href=\"mailto:admin@mitnet.exchange\">admin@mitnet.exchange</a><br>Copyright (c) 2018 MIT Exchange&nbsp;All rights reserved",
+          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"index.html#extToggle1-24\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>GETMOder. Level 11, 157 Lambton Quay<br>Wellington 6011<br>New Zealand<br>Email: <a href=\"mailto:admin@getmoder.io\">admin@getmoder.io</a><br>Copyright (c) 2018 GETModer Foundation. All rights reserved",
           "_tags": [
             "Theme"
           ],
@@ -1601,13 +1498,13 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "bgColor": "#0a8c30",
+            "bgColor": "#2969b0",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1672,7 +1569,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mitfavicon-176x107.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-200x200.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1685,7 +1582,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MITNet Exchange</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GETModer</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-t"
         },
@@ -1702,7 +1599,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"page1.html\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>MITNet Exchange. 22B Moorefield Rd,\n<br>Wellington 6037,\n<br>New Zealand<br>Email: <a href=\"mailto:admin@mitnet.exchange\">admin@mitnet.exchange</a><br>Copyright (c) 2018 MIT Exchange&nbsp;All rights reserved",
+          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"index.html#extToggle1-24\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>GETMOder. Level 11, 157 Lambton Quay<br>Wellington 6011<br>New Zealand<br>Email: <a href=\"mailto:admin@getmoder.io\">admin@getmoder.io</a><br>Copyright (c) 2018 GETModer Foundation. All rights reserved",
           "_tags": [
             "Theme"
           ],
@@ -1739,13 +1636,13 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "bgColor": "#0a8c30",
+            "bgColor": "#2969b0",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -1810,7 +1707,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mitfavicon-176x107.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-200x200.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1823,7 +1720,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MITNet Exchange</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GETModer</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-v"
         },
@@ -1840,7 +1737,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"page1.html\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>MITNet Exchange. 22B Moorefield Rd,\n<br>Wellington 6037,\n<br>New Zealand<br>Email: <a href=\"mailto:admin@mitnet.exchange\">admin@mitnet.exchange</a><br>Copyright (c) 2018 MIT Exchange&nbsp;All rights reserved",
+          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"index.html#extToggle1-24\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>GETMOder. Level 11, 157 Lambton Quay<br>Wellington 6011<br>New Zealand<br>Email: <a href=\"mailto:admin@getmoder.io\">admin@getmoder.io</a><br>Copyright (c) 2018 GETModer Foundation. All rights reserved",
           "_tags": [
             "Theme"
           ],
@@ -1941,13 +1838,13 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "bgColor": "#0a8c30",
+            "bgColor": "#2969b0",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -2012,7 +1909,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mitfavicon-176x107.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-200x200.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2025,7 +1922,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MITNet Exchange</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GETModer</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-x"
         },
@@ -2042,7 +1939,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"page1.html\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>MITNet Exchange. 22B Moorefield Rd,\n<br>Wellington 6037,\n<br>New Zealand<br>Email: <a href=\"mailto:admin@mitnet.exchange\">admin@mitnet.exchange</a><br>Copyright (c) 2018 MIT Exchange&nbsp;All rights reserved",
+          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"index.html#extToggle1-24\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>GETMOder. Level 11, 157 Lambton Quay<br>Wellington 6011<br>New Zealand<br>Email: <a href=\"mailto:admin@getmoder.io\">admin@getmoder.io</a><br>Copyright (c) 2018 GETModer Foundation. All rights reserved",
           "_tags": [
             "Theme"
           ],
@@ -2079,13 +1976,13 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "bgColor": "#0a8c30",
+            "bgColor": "#2969b0",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -2150,7 +2047,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mitfavicon-176x107.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-200x200.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2163,7 +2060,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MITNet Exchange</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GETModer</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-z"
         },
@@ -2180,7 +2077,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"page1.html\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>MITNet Exchange. 22B Moorefield Rd,\n<br>Wellington 6037,\n<br>New Zealand<br>Email: <a href=\"mailto:admin@mitnet.exchange\">admin@mitnet.exchange</a><br>Copyright (c) 2018 MIT Exchange&nbsp;All rights reserved",
+          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"index.html#extToggle1-24\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>GETMOder. Level 11, 157 Lambton Quay<br>Wellington 6011<br>New Zealand<br>Email: <a href=\"mailto:admin@getmoder.io\">admin@getmoder.io</a><br>Copyright (c) 2018 GETModer Foundation. All rights reserved",
           "_tags": [
             "Theme"
           ],
@@ -2258,13 +2155,13 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "bgColor": "#0a8c30",
+            "bgColor": "#2969b0",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -2329,7 +2226,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mitfavicon-176x107.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-200x200.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2341,7 +2238,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MITNet Exchange</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GETModer</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-2d"
         },
@@ -2447,7 +2344,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"page1.html\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>MITNet Exchange. 22B Moorefield Rd,\n<br>Wellington 6037,\n<br>New Zealand<br>Email: <a href=\"mailto:admin@mitnet.exchange\">admin@mitnet.exchange</a><br>Copyright (c) 2018 MIT Exchange&nbsp;All rights reserved",
+          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"index.html#extToggle1-24\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>GETMOder. Level 11, 157 Lambton Quay<br>Wellington 6011<br>New Zealand<br>Email: <a href=\"mailto:admin@getmoder.io\">admin@getmoder.io</a><br>Copyright (c) 2018 GETModer Foundation. All rights reserved",
           "_tags": [
             "Theme"
           ],
@@ -2471,13 +2368,13 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "bgColor": "#0a8c30",
+            "bgColor": "#2969b0",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -2542,7 +2439,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mitfavicon-176x107.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-200x200.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2554,7 +2451,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MITNet Exchange</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GETModer</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-2j"
         },
@@ -2571,7 +2468,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"page1.html\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>MITNet Exchange. 22B Moorefield Rd,\n<br>Wellington 6037,\n<br>New Zealand<br>Email: <a href=\"mailto:admin@mitnet.exchange\">admin@mitnet.exchange</a><br>Copyright (c) 2018 MIT Exchange&nbsp;All rights reserved",
+          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"index.html#extToggle1-24\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>GETMOder. Level 11, 157 Lambton Quay<br>Wellington 6011<br>New Zealand<br>Email: <a href=\"mailto:admin@getmoder.io\">admin@getmoder.io</a><br>Copyright (c) 2018 GETModer Foundation. All rights reserved",
           "_tags": [
             "Theme"
           ],
